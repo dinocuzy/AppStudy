@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# EasyOCR model cache
+.EasyOCR/
+
+# Python scripts (không cần cho web)
+ocr_gemini.py
+ocr_offline.py
+scrape_fu.py
+build_db.py
+
+# Không push ảnh lên Git (quá nặng, dùng local)
+fuoverflow_images/
+
+# Misc
+.env
+*.log
+search.html

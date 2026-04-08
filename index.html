@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LearnWithDino - Ôn Thi SWT301</title>
+    <!-- Phông chữ thiết kế hiện đại -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- KHUNG HEADER HIỆN ĐẠI -->
+    <header class="glass-header">
+        <div class="logo">🦕 <span class="highlight">LearnWithDino</span></div>
+        <div class="header-tools">
+            <span class="badge blue-badge">SWT301</span>
+            <span class="badge version-badge">v2.0 (OCR + Quiz)</span>
+        </div>
+    </header>
+
+    <!-- MÀN HÌNH 1: HOME (Danh sách đề phân loại) -->
+    <main id="screen-home" class="screen active">
+        <div class="hero-section">
+            <h1 class="gradient-text">Ngân Hàng Đề Thi SWT301</h1>
+            <p>Hàng ngàn câu hỏi phân tích bằng AI. Những câu có biểu tượng 🔥 là những câu "Trúng tủ - Làm lại" nhiều lần ở các học kỳ trước!</p>
+        </div>
+        
+        <div id="semester-container">
+            <!-- JavaScript tự động đổ dữ liệu Database vào đây -->
+            <div class="loading-pulse">Đang tải Master Database...</div>
+        </div>
+    </main>
+
+    <!-- MÀN HÌNH 2: THREAD VIEW (Danh sách Ảnh dạng Lưới) -->
+    <main id="screen-thread" class="screen">
+        <div class="nav-bar">
+            <button id="btnBackHome" class="btn btn-outline">⬅ Quay lại Trang chủ</button>
+            <h2 id="thread-title-display">Thread Title</h2>
+        </div>
+        
+        <div class="stats-bar glass-panel">
+            <div class="stat-pill">
+                <span class="stat-label">Tổng câu hỏi</span>
+                <span class="stat-value" id="stat-total">0</span>
+            </div>
+            <div class="stat-pill fire-pill">
+                <span class="stat-label">🔥 Trúng tủ (Lặp lại)</span>
+                <span class="stat-value" id="stat-repeated">0</span>
+            </div>
+        </div>
+
+        <div id="image-grid" class="image-grid">
+            <!-- Ảnh thu nhỏ render bởi JS -->
+        </div>
+    </main>
+
+    <!-- MÀN HÌNH 3: LIGHTBOX (Giao diện học kết hợp Quiz Tương tác) -->
+    <div id="lightbox" class="lightbox">
+        <div class="lightbox-close" id="btnCloseLightbox">&times;</div>
+        
+        <div class="lightbox-wrapper">
+            <!-- Bên Trái: Triển lãm ảnh lớn rõ nét -->
+            <div class="lightbox-image-pan">
+                <div class="image-zoom-container" id="zoomContainer">
+                    <img id="lb-image" src="" alt="Question Image">
+                    <!-- Thanh điều khiển Zoom nằm phía dưới ảnh -->
+                    <div class="zoom-controls">
+                        <button class="zoom-btn" id="zoomOut" title="Thu nhỏ (-)">−</button>
+                        <span class="zoom-level-label" id="zoomLabel">100%</span>
+                        <button class="zoom-btn" id="zoomIn" title="Phóng to (+)">+</button>
+                        <button class="zoom-btn" id="zoomReset" title="Đặt lại (Double-click)">⟳</button>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Bên Phải: Thanh Sidebar Tương tác (Quiz Engine) -->
+            <div class="lightbox-sidebar glass-panel">
+
+                <!-- ── SECTION 1: CÂU HỎI ── -->
+                <div class="sb-section sb-question-section">
+                    <div class="sb-section-label">
+                        <span class="section-dot dot-blue"></span>
+                        Câu hỏi
+                        <span id="lb-ocr-status" class="badge green-badge ml-auto">✔ OCR</span>
+                    </div>
+
+                    <!-- Cảnh báo Câu hỏi Hay ra -->
+                    <div id="lb-repeated-info" class="repeated-alert hidden">
+                        <span class="fire-icon">🔥</span>
+                        <div>
+                            <b>Hay ra lại!</b>
+                            <p>Từng xuất hiện trong: <span id="lb-repeated-terms"></span></p>
+                        </div>
+                    </div>
+
+                    <p id="lb-question-title" class="question-text">Câu hỏi hiển thị ở đây...</p>
+                </div>
+
+                <!-- ── SECTION 2: LỰA CHỌN & NỘP BÀI ── -->
+                <div class="sb-section sb-quiz-section">
+                    <div class="sb-section-label">
+                        <span class="section-dot dot-purple"></span>
+                        Chọn đáp án của bạn
+
+                        <!-- Điều hướng Prev / Next -->
+                        <div class="lb-nav-controls ml-auto">
+                            <button class="nav-arrow" id="btnPrev" title="Câu trước">‹</button>
+                            <span class="nav-counter" id="lb-nav-counter">1 / 60</span>
+                            <button class="nav-arrow" id="btnNext" title="Câu tiếp theo">›</button>
+                        </div>
+                    </div>
+
+                    <!-- 4 nút cố định A B C D E -->
+                    <div class="fixed-abcd" id="fixed-abcd">
+                        <button class="abcd-btn" data-key="A">A</button>
+                        <button class="abcd-btn" data-key="B">B</button>
+                        <button class="abcd-btn" data-key="C">C</button>
+                        <button class="abcd-btn" data-key="D">D</button>
+                        <button class="abcd-btn" data-key="E">E</button>
+                    </div>
+
+                    <div class="quiz-actions">
+                        <button class="btn btn-primary w-100" id="btnRevealAnswer">📝 Nộp bài & Xem kết quả</button>
+                        <div id="lb-correct-answer-display" class="correct-answer-box hidden">
+                            <span id="lb-correct-label">Vote cộng đồng:</span>
+                            <div id="lb-correct-letter" class="correct-letter">A</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ── SECTION 3: ĐÓNG GÓP CỘNG ĐỒNG ── -->
+                <div id="lb-contribute-section" class="sb-section sb-contrib-section hidden">
+                    <div class="sb-section-label">
+                        <span class="section-dot dot-yellow"></span>
+                        Đóng góp đáp án
+                        <span class="badge" style="background:rgba(251,191,36,0.15);color:#fbbf24;margin-left:auto">Cộng đồng</span>
+                    </div>
+
+                    <p class="contrib-tagline">Câu này chưa có đáp án FUOverflow. Bạn biết đáp án? Hãy đóng góp!</p>
+
+                    <!-- Biểu đồ thống kê phiếu -->
+                    <div id="contrib-tally" class="contrib-tally"></div>
+
+                    <!-- Chọn & gửi đáp án -->
+                    <div class="contrib-choices" id="contrib-choices">
+                        <button class="contrib-btn" data-choice="A">A</button>
+                        <button class="contrib-btn" data-choice="B">B</button>
+                        <button class="contrib-btn" data-choice="C">C</button>
+                        <button class="contrib-btn" data-choice="D">D</button>
+                        <button class="contrib-btn" data-choice="E">E</button>
+                    </div>
+                    <button class="btn btn-contribute w-100" id="btnSubmitContrib" disabled>✅ Gửi đóng góp</button>
+                    <p id="contrib-feedback" class="contrib-feedback hidden"></p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Nạp toàn bộ logic Web Application -->
+    <script src="app.js"></script>
+</body>
+</html>
