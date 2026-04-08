@@ -12,8 +12,8 @@ ocr_offline.py
 scrape_fu.py
 build_db.py
 
-# Không push ảnh lên Git (quá nặng, dùng local)
-fuoverflow_images/
+# Không push ảnh lên Git (bỏ comment dòng dưới nếu muốn push ảnh)
+# fuoverflow_images/
 
 # Misc
 .env

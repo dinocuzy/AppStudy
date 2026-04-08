@@ -1,0 +1,389 @@
+[
+    {
+        "question": "Question: Which one is not comes under international standard: (choose one answer) A IEC (Choose answer)",
+        "options": {
+            "B": "IEEE ISO All of the others FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "B",
+        "image_file": "001_Q1.webp"
+    },
+    {
+        "question": "Question:\nFaults found by users are due to:\nInsufficient time for testing\n(Choose answer)\nPoor software and poor testing\nBad luck\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "002_Q2.webp"
+    },
+    {
+        "question": "Question: 3\nA piece of software has been given what tests in the following will you perform? 1) Test the area's most critica to business processes 2) Test the areas where faults will be maximum 3) Test the easiest functionalities\n(Choose answer)\n182 are true and 3 is false\n1,283 are true\n1 is true; 283 are false.\n182 are false; 3 is true\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "003_Q3.webp"
+    },
+    {
+        "question": "Question:\nEULA stands for\nEnd Usability License Agreement\n(Choose answer)\nEnd User License Agreement End User License Arrangement End User License Attachment\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "004_Q4.webp"
+    },
+    {
+        "question": "Question: 5\nCAST stands for\nComputer Aided Software Testing\n(Choose answer)\nComputer Aided Software Tools\nComputer Analysis Software Techniques None of the others\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "005_Q5.webp"
+    },
+    {
+        "question": "Question:\nDefect Management process does not include Defect prevention\n(Choose answer)\nDeliverable base-lining\nManagement reporting\nNone of the others\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "006_Q6.webp"
+    },
+    {
+        "question": "Question:\nWhich of the following will be the best definition for Testing:\nThe goal / purpose of testing is to demonstrate that the program works_\n(Choose answer)\nThe purpose of testing is to demonstrate that the program is defect free. The purpose of testing is to demonstrate that the program does what it is supposed to do D. Testing is executing Software for the purpose of finding defects\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "007_Q7.webp"
+    },
+    {
+        "question": "Question: 8\nWhich of the following s the standard for the Software product quality ISO 9126\n(Choose answer)\nISO 829\nISO 1012\nISO 1028\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "008_Q8.webp"
+    },
+    {
+        "question": "Question:\nThe cost of fixing fault:\nIs not important\n(Choose answer)\nIncreases as we move the product towards live use\nDecreases as we move the product towards live use\nIs more expensive if found in requirements than functional design\nCan never be determined\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "009_Q9.webp"
+    },
+    {
+        "question": "Question: 10\nWhich of the following statements are true?\nFaults in program specifications are the most expensive to fix Faults in code are the most expensive to fix .\n(Choose answer)\nFaults in requirements are the most expensive to fix Faults in designs are the most expensive to fix.\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "010_Q10.webp"
+    },
+    {
+        "question": "Question: 11\nCost of the reviews will not include\nReview process itself\n(Choose answer)\nMetrics analysis\nTool support.\nProcess improvement\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "011_Q11.webp"
+    },
+    {
+        "question": "Question: 12\nReviews , static analysis and dynamic testing have the same objective\n{i) Identifying defects_\n(Choose answer)\n(ii) Fixing defects\nand (ii)\nNone of (i) nor (ii)\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "012_Q12.webp"
+    },
+    {
+        "question": "Question: 13\nDuring the software development process at what point can the test process start?\nWhen the code is complete.\n(Choose answer)\nWhen the design is complete\nWhen the software requirements have been approved.\nWhen the first code module is ready for unit testing\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "013_Q13.webp"
+    },
+    {
+        "question": "Question: 14 Drivers are also known as: Spade ii.Test harness iii. Scaffolding (Choose answer) A i , ii are true and iii is false",
+        "options": {
+            "B": "i , iii are true and ii is false ii , iii are true and is false All of ii and iii are true FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "C",
+        "image_file": "014_Q14.webp"
+    },
+    {
+        "question": "Question: 15\nWho would USUALLY perform debugging activities? Developers\n(Choose answer)\nAnalysts\nTesters\nIncident Managers\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "015_Q15.webp"
+    },
+    {
+        "question": "Question: 16\nSoftware testing accounts to what percent of software development costs? 10-20\n(Choose answer)\n40-50\n70-80\n5-10\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "016_Q16.webp"
+    },
+    {
+        "question": "Question: 17\nConfiguration and compatibility testing are typically good choices for outsourcing\nTrue\n(Choose answer)\nFalse\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "017_Q17.webp"
+    },
+    {
+        "question": "Question: 18\nWhich of the following has highest level of independence in which test cases are\nDesigned by persons who write the software under test\n(Choose answer)\nDesigned by person from different section\nDesigned by person from different organization\nDesigned by another person\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "018_Q18.webp"
+    },
+    {
+        "question": "Question: 19\nMajority of system errors occur in the\nphase\nRequirements Phase_\n(Choose answer)\nAnalysis and Design Phase\nDevelopment Phase Testing Phase\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "019_Q19.webp"
+    },
+    {
+        "question": "Question: 20\nBenefits of Independent Testing\nIndependent testers are much more qualified than Developers\n(Choose answer)\nIndependent testers see other and different defects and are unbiased\nIndependent Testers cannot identify defects\nIndependent Testers can test better than developers\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "020_Q20.webp"
+    },
+    {
+        "question": "Question: 21\nWho is responsible for document all the issues , problems and open point that were identified during the review meeting\n(Choose answer)\nModerator\nScribe\nReviewers\nAuthor\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "021_Q21.webp"
+    },
+    {
+        "question": "Question: 22\nThe person who leads the review of the document(s) , planning the review ; running the meeting and follow-up aiter the meeting\n(Choose answer)\nReviewer\nAuthor\nModerator\nAuditor\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "022_Q22.webp"
+    },
+    {
+        "question": "Question: 23\nThe Kick Off phase of a formal review includes the following:\nA Explaining the objective\n(Choose answer)\nFixing defects found typically done by author\nFollow up\nIndividual Meeting preparations\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "023_Q23.webp"
+    },
+    {
+        "question": "Question: 24\nStatic analysis tools are typically used by\n(Choose answer)\nA  Testers Developers Testers & Developers None of the others\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "024_Q24.webp"
+    },
+    {
+        "question": "Question: 25\nWhat can static analysis NOT find?\nThe use of a variable before has been defined\n(Choose answer)\nUnreachable (\"dead') code\nMemory leaks\nArray bound violations\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "025_Q25.webp"
+    },
+    {
+        "question": "Question: 26 In a review meeting moderator is person who Takes minutes of the meeting (Choose answer)",
+        "options": {
+            "B": "Mediates between people Takes telephone calls Writes the documents to be reviewed FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "B",
+        "image_file": "026_Q26.webp"
+    },
+    {
+        "question": "Question: 27 The Phases of formal review process is mentioned below arrange them in the correct order . Planning Review Meeting 1 Rework Individual Preparations Kick Off Follow Up A iiiiii,iv,v,vi (Choose answer)",
+        "options": {
+            "B": "vi,iiii,iv,v i,v,iv,ji,iii,vi",
+            "D": "i,ii,iii,v,iv,vi FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "C",
+        "image_file": "027_Q27.webp"
+    },
+    {
+        "question": "Question: 28\nPeople who don't participate in technical reviews\nA Analysts\n(Choose answer)\nManagement\nDevelopers Testers\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "028_Q28.webp"
+    },
+    {
+        "question": "Question: 29 Which of the following is not static testing technique? Error guessing (Choose answer)",
+        "options": {
+            "B": "Walkthrough Data flow analysis Inspections FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "A",
+        "image_file": "029_Q29.webp"
+    },
+    {
+        "question": "Question: 30 Which expression best matches the following characteristics or review processes Led by author 2 Undocumented No management participation 4. Led by trained moderator or leader Uses entry exit criteria Inspection t) Peer review u) Informal review v) Walkthrough (Choose answer) 5 = 4,t = 3 u = 2and 5, v = 1 5 = 4and 5,t = 3, u = 2, v =1 5 = and 5, t = 3,u = 2, v = 4",
+        "options": {
+            "D": "$ = 5,t =4,u = 3,v = 1and 2 5 = 4and 5,t = 1, u = 2, v = 3 FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "B",
+        "image_file": "030_Q30.webp"
+    },
+    {
+        "question": "Question: 31\nFeatures of White Box Testing Technique: We use explicit knowledge of the internal workings of the item being tested to select the test data ii.Uses specific knowledge of programming code to examine outputs and assumes that the tester knows the path of logic in a unit or a program_ iii. Checking for the performance of the application iv. Also checks for functionality_\n(Choose answer)\nA i, ii are true and iii and iv are false\niii is true and i,ii, iv are false\nii ,iii is true and i,iv is false\niii and iv are true and i,ii are false\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "031_Q31.webp"
+    },
+    {
+        "question": "Question: 32\nComplete statement and branch coverage means:\nThat you have tested every statement in the program.\n(Choose answer)\nThat you have tested every statement and every branch in the program That you have tested every IF statement in the program .\nThat you have tested every combination of values of IF statements in the program\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "032_Q32.webp"
+    },
+    {
+        "question": "Question: 33\nWhich of the following techniques is NOT a White box technique? Statement Testing and coverage\n(Choose answer)\nDecision Testing and coverage\nCondition Coverage\nBoundary value analysis\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "033_Q33.webp"
+    },
+    {
+        "question": "Question: 34\n4 program with high cyclometic complexity is almost likely to be\n(Choose answer)\nLarge\nSmall\nDifficult to write\nDifficult to test\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "034_Q34.webp"
+    },
+    {
+        "question": "Question: 35 Which of the following is NOT part of system testing Business process-based testing (Choose answer) Performance; load and stress testing Requirements-based testing",
+        "options": {
+            "D": "Usability testing Top-down integration testing FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "N/A (Chưa có comment bình chọn)",
+        "image_file": "035_Q35.webp"
+    },
+    {
+        "question": "Question: 36\nError guessing is:\n(Choose answer)\nAn appropriate way of deriving system tests Only used if good requirements are not available Only used when good requirements are available.\nThe most appropriate way of deriving system tests_\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "036_Q36.webp"
+    },
+    {
+        "question": "Question: 37\nCyclomatic Complexity method comes under which testing method\nWhite box\n(Choose answer)\nBlack box\nGreen box\nYellow box\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "037_Q37.webp"
+    },
+    {
+        "question": "Question: 38 (Choose answer) Check out Login Browse Basket Pay Log- out Given the following state transition diagram. Which of the following series of state transitions contains an INVALID transition which may indicate fault in the system design? Exhibit:",
+        "options": {
+            "A": "Login Browse Basket Checkout Basket Checkout Pay Logout. B. Login Browse Basket Checkout Pay ogout. Login Browse Basket Checkout Basket Logout. D. Login Browse Basket Browse Basket Checkout Pay Logout. FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "C",
+        "image_file": "038_Q38.webp"
+    },
+    {
+        "question": "Question: 39\nRegression testing should be performed: v) Every week w) After the software has changed x) As often as possible When the environment has changed z) When the project manager says\n(Choose answer)\nv & w are true, X -Z are false\nW, X & y are true & z are false\nw & y are true, V, X & z are false\nw is true; V, Xy and z are false\nAll of them are true\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "039_Q39.webp"
+    },
+    {
+        "question": "Question: 40\nFPA is used to\nTo measure the functional requirements of the project\n(Choose answer)\nTo measure the size of the functionality of an Information system\nTo measure the functional testing effort To measure the functional flow\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "040_Q40.webp"
+    },
+    {
+        "question": "Question: 41\nSoftware quality is not relevant to\nCorrectness\n(Choose answer)\nUsability\nViability Reusability\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "041_Q41.webp"
+    },
+    {
+        "question": "Question: 42 Which activities form part of test planning? Developing test cases 8 Defining the overall approach to testing . Assigning resources_ Building the test environment Writing test conditions A i, ii & iv are true; iii & v are false. (Choose answer) ii & iii are true, iv & v are false. iv & are true ii & iii are false",
+        "options": {
+            "D": "i, ii & iii are true iv & are false_ FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "B",
+        "image_file": "042_Q42.webp"
+    },
+    {
+        "question": "Question: 43\nWhich of the following is not a part of the Test Implementation and Execution Phase\nCreating test suites from the test cases\n(Choose answer)\nExecuting test cases either manually or by using test execution tools\nComparing actual results\nDesigning the Tests\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "043_Q43.webp"
+    },
+    {
+        "question": "Question: 44\nTest Case are grouped into Manageable (and scheduled) units are called as Test Harness\n(Choose answer)\nTest Suite\nTest Cycle\nTest Driver\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "044_Q44.webp"
+    },
+    {
+        "question": "Question: 45\nWhen should configuration management procedures be implemented?\nDuring test planning:\n(Choose answer)\nDuring test analysis\nDuring test execution:\nWhen evaluating exit criteria\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "045_Q45.webp"
+    },
+    {
+        "question": "Question: 46\nWhich activity in the fundamental test process creates test suites for efficient test execution?\nImplementation and execution.\n(Choose answer)\nPlanning and control\nAnalysis and design.\nTest closure\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "046_Q46.webp"
+    },
+    {
+        "question": "Question: 47\nWhat is the main reason for testing software before releasing it?\nTo show that system will work after release\n(Choose answer)\nTo decide when the software is of sufficient quality to release\nTo find as many bugs as possible before release To give information for a risk based decision about release\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "047_Q47.webp"
+    },
+    {
+        "question": "Question: 48\nis the step-by-step method followed to ensure that standards are met\nA SDLC\n(Choose answer)\nProject Plan\nPolicy\nProcedure\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "048_Q48.webp"
+    },
+    {
+        "question": "Question: 49\nWhat is the MAIN objective when reviewing software deliverable?\nTo identify potential application failures by use of a test specification.\n(Choose answer)\nTo identify defects in any software work product.\nTo identify spelling mistakes in a requirements specification: To identify standards inconsistencies in the code.\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "049_Q49.webp"
+    },
+    {
+        "question": "Question: 50\nThe principal attributes of tools and automation are (choose one answer)\n(1) Speed & efficiency\n(Choose answer)\nAccuracy & precision\nBoth of (1) and (2)\nNone of (1) nor (2)\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "050_Q50.webp"
+    },
+    {
+        "question": "Question: 51\nWhat type of tools to be used for Regression Testing\n(1) Performance\n(Choose answer)\n{2) Record Playback\nBoth of (1) and (2)\nNone of (1) nor (2)\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "051_Q51.webp"
+    },
+    {
+        "question": "Question: 52 Which tool will be used to test the flag memory eaks and unassigned pointers Dynamic analysis tool (Choose answer)",
+        "options": {
+            "B": "Static Analysis tool. Maintenance tool. Configuration tool. FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "A",
+        "image_file": "052_Q52.webp"
+    },
+    {
+        "question": "Question: 53\nWhich of the following tools would be involved in the automation of regression test?\nData tester\n(Choose answer)\nBoundary tester CapturelPlayback\nOutput comparator .\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "053_Q53.webp"
+    },
+    {
+        "question": "Question: 54\nThe Provision and Management of a controlled library containing all the configurations items is called as\n(Choose answer)\nConfiguration Control Status Accounting\nConfiguration Identification\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "054_Q54.webp"
+    },
+    {
+        "question": "Question: 55\nWhich_of the following benefits are MOST likely to be achieved by using test tools? Easy to access information about tests and testing 3 Reduced maintenance of testware Easy and cheap to implement. Greater consistency of tests\n(Choose answer)\nA iiand iv\nii and iii\nand iv\nand iii\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "055_Q55.webp"
+    },
+    {
+        "question": "Question: 56 Which of the following activities should be performed during the selection and implementation of testing tool? Investigate the organisation's test process_ ii) Conduct proof of concept. iii) Implement the selected tool on a project behind schedule to save time. iv) Identify coaching and mentoring requirements for the use of the selected tool. (Choose answer) A i, ii, iii.",
+        "options": {
+            "B": "ii, iii, iv. i, iii, iv.",
+            "D": "i, ii, iv. FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "D",
+        "image_file": "056_Q56.webp"
+    },
+    {
+        "question": "Question: 57\nWith which of the following categories is test comparator tool USUALLY associated?\nTool support for performance and monitoring:\n(Choose answer)\nTool support for static testing.\nTool support for test execution and logging:\nTool support for the management of testing and tests .\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "057_Q57.webp"
+    },
+    {
+        "question": "Question: 58\nFind the mismatch\nTest data preparation tools Manipulate Data bases\n(Choose answer)\nTest design tools Generate test inputs\nRequirement management tools Enables individual tests to be traceable\nConfiguration management tools Check for consistence\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "058_Q58.webp"
+    },
+    {
+        "question": "Question: 59 A thermometer measures temperature in whole degrees only. If the temperature falls below 18 degrees , the heating is switched off. It is switched on again when the temperature reaches 21 degrees What are the best values In degrees to cover all equivalence partitions (Choose answer) A 15, 19 and 25",
+        "options": {
+            "B": "17, 18 and19. 18, 20 and 22",
+            "D": "16, 26 and 32 FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "A",
+        "image_file": "059_Q59.webp"
+    },
+    {
+        "question": "Question: 60\nThe\nTesting will be performed by the people at client own locations\nAlpha testing\n(Choose answer)\nField testing\nPerformance testing System testing\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "060_Q60.webp"
+    }
+]

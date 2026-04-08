@@ -1,0 +1,129 @@
+{
+  "fe_swr": {
+    "columns": [
+      "Câu hỏi gốc",
+      "Câu hỏi (Dịch sang tiếng Việt)",
+      "Tất cả các option",
+      "Câu trả lời gốc",
+      "Câu trả lời (Dịch)"
+    ],
+    "dtypes": {
+      "Câu hỏi gốc": "str",
+      "Câu hỏi (Dịch sang tiếng Việt)": "str",
+      "Tất cả các option": "str",
+      "Câu trả lời gốc": "str",
+      "Câu trả lời (Dịch)": "str"
+    },
+    "sample": [
+      {
+        "Câu hỏi gốc": "1. Which of the following is not a type of requirements?",
+        "Câu hỏi (Dịch sang tiếng Việt)": "1. Điều nào sau đây không phải là một loại yêu cầu?",
+        "Tất cả các option": "A. Business\n\nB. User\n\nC. Functional\n\nD. Nonfunctional\n\nE. System quality",
+        "Câu trả lời gốc": "E. System quality",
+        "Câu trả lời (Dịch)": "E. Chất lượng hệ thống"
+      },
+      {
+        "Câu hỏi gốc": "2. What do customers have the right to do? Select three.",
+        "Câu hỏi (Dịch sang tiếng Việt)": "2. Khách hàng có quyền làm gì? Chọn ba.",
+        "Tất cả các option": "A. Expect BAs to record requirements in an appropriate form\n\nB. Change their requirements\n\nC. Receive a system that meets their functional needs and quality expectations\n\nD. Provide input on the system's architecture",
+        "Câu trả lời gốc": "A. Expect BAs to record requirements...\n\nB. Change their requirements\n\nC. Receive a system that meets...",
+        "Câu trả lời (Dịch)": "A. Mong đợi BA ghi chép yêu cầu...\n\nB. Thay đổi yêu cầu\n\nC. Nhận hệ thống đáp ứng nhu cầu..."
+      },
+      {
+        "Câu hỏi gốc": "3. What do customers have the responsibility to do? Select three.",
+        "Câu hỏi (Dịch sang tiếng Việt)": "3. Khách hàng có trách nhiệm làm gì? Chọn ba.",
+        "Tất cả các option": "A. Be specific and precise when providing input about requirements\n\nB. Make timely decisions about requirements when asked\n\nC. Establish acceptance criteria\n\nD. Write code for the system",
+        "Câu trả lời gốc": "A. Be specific and precise...\n\nB. Make timely decisions...\n\nC. Establish acceptance criteria",
+        "Câu trả lời (Dịch)": "A. Cụ thể và chính xác khi cung cấp đầu vào...\n\nB. Đưa ra quyết định kịp thời...\n\nC. Thiết lập các tiêu chí chấp nhận"
+      },
+      {
+        "Câu hỏi gốc": "4. Validation does not include:",
+        "Câu hỏi (Dịch sang tiếng Việt)": "4. Việc xác thực (Validation) không bao gồm:",
+        "Tất cả các option": "A. Reviewing the requirements\n\nB. Prototyping\n\nC. Generating test cases\n\nD. Identifying requirement origins",
+        "Câu trả lời gốc": "D. Identifying requirement origins",
+        "Câu trả lời (Dịch)": "D. Xác định nguồn gốc yêu cầu"
+      },
+      {
+        "Câu hỏi gốc": "5. Requirements management does not include:",
+        "Câu hỏi (Dịch sang tiếng Việt)": "5. Quản lý yêu cầu không bao gồm:",
+        "Tất cả các option": "A. Version control\n\nB. Change control\n\nC. Requirement tracing\n\nD. Changing requirements to maximize the benefits of the project",
+        "Câu trả lời gốc": "D. Changing requirements to maximize the benefits of the project",
+        "Câu trả lời (Dịch)": "D. Thay đổi yêu cầu để tối đa hóa lợi ích của dự án"
+      }
+    ]
+  },
+  "istqb": {
+    "columns": [
+      "Number",
+      "Question",
+      "A",
+      "B",
+      "C",
+      "D",
+      "Answer",
+      "Source_URL"
+    ],
+    "dtypes": {
+      "Number": "int64",
+      "Question": "str",
+      "A": "str",
+      "B": "str",
+      "C": "str",
+      "D": "str",
+      "Answer": "str",
+      "Source_URL": "str"
+    },
+    "sample": [
+      {
+        "Number": 1,
+        "Question": "How many test cases are required to cover 100% 0 – switch coverage respectively from X2?\nExhibit: [Image Reference: ISTQB2-1.gif]",
+        "A": "4",
+        "B": "1",
+        "C": "3",
+        "D": "2",
+        "Answer": "D",
+        "Source_URL": "https://www.softwaretestinggenius.com/istqb-certification-exam-sample-papers-q-1-to-10/"
+      },
+      {
+        "Number": 2,
+        "Question": "From a Testing perspective, what are the MAIN purposes of Configuration Management?:\n\ni) Identifying the version of software under test.\nii) Controlling the version of testware items.\niii) Developing new testware items.\niv) Tracking changes to testware items.\nv) Analysing the need for new testware items.",
+        "A": "ii, iv and v.",
+        "B": "ii, iii and iv,",
+        "C": "i, ii and iv.",
+        "D": "i, iii and v.",
+        "Answer": "C",
+        "Source_URL": "https://www.softwaretestinggenius.com/istqb-certification-exam-sample-papers-q-1-to-10/"
+      },
+      {
+        "Number": 3,
+        "Question": "Which of the following is a MAJOR task of test planning?",
+        "A": "Scheduling test analysis and design tasks.",
+        "B": "Initiating corrective actions.",
+        "C": "Monitoring progress and test coverage.",
+        "D": "Measuring and analyzing results.",
+        "Answer": "A",
+        "Source_URL": "https://www.softwaretestinggenius.com/istqb-certification-exam-sample-papers-q-1-to-10/"
+      },
+      {
+        "Number": 4,
+        "Question": "Based on the IEEE Standard for Software Test Documentation (IEEE Std 829 – 1998), which of the following sections are part of the test summary report?\n\na) Summary\nb) Test incident report identifier\nc) Test deliverables\nd) Risks and contingencies\ne) Variances\nf) Approvals\ng) Output specifications",
+        "A": "a, e and f",
+        "B": "a, c and d",
+        "C": "a, b and f",
+        "D": "a, d and e",
+        "Answer": "A",
+        "Source_URL": "https://www.softwaretestinggenius.com/istqb-certification-exam-sample-papers-q-1-to-10/"
+      },
+      {
+        "Number": 5,
+        "Question": "Which is a potential product risk factor?",
+        "A": "Failure of third party vendor",
+        "B": "Training issues",
+        "C": "Problems requirements definition",
+        "D": "Poor software functionality",
+        "Answer": "D",
+        "Source_URL": "https://www.softwaretestinggenius.com/istqb-certification-exam-sample-papers-q-1-to-10/"
+      }
+    ]
+  }
+}

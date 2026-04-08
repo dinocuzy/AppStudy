@@ -1,0 +1,296 @@
+[
+    {
+        "question": "fuoverflow le choices 1/60\nAnswer\n{Choose answer)\n[Testwareltest cases , test dataset)\nIs needed only until the software Is released Into production Or use\nDoes nct need to be documented and commented as it does not forn part of the released software systen\nNeeds configuration maragement just like requirements design and code Should be newiy constructed for each new version of the software\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "001_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 2/60 Answer (Choose answer)\nIn a risk-based approach the risks identified may be used to Determine the test technique to be employed Determine the extent of testing to be carried out Prioritize testing in an attempt to find critica defects as early as possible. Determine the cost of the project\niii,iii are true and iv is false\nB   ii. iii & iv are True; i is false\n1 & iii are True Iv are False\nDiiis True i iv & are False\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "002_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 3/60 Answer (Choose answer)\nAn input field takes the year of birth between 1900 and 2004 The boundary values for testing this field are\n0. 19C0.2004,.2005 1899, 19C0.2004,2005\n19C0. 2004\n1899  1900 1901,2003,2004,2005\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "003_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 4/60\nAnswer\n(Choose answer)\nWhat is the MAIN benefit of designing tests early in the life cycle?\nIt saves time during the testing phases when testers are busy .\nIt is cheaper than designing tests during the test phases It helps prevent defects from being introduced into the code\nTests designed early are more effective than tests designed later\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "004_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 5/60 Answer {Choose answer)\nCapture and replay facilities are least likely to be used to\nGUI testing Perormance testing\nRecovery testing\nUser requirements\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "005_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 7/60 Answer (Choose answer)\nWhich of the following is not a static testing technique?\nInspections\nError guessing Walkthrough\nData flcw analysis\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "006_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 8/60 Answer (Choose answer)\nThe vendor contractor to write the initial scripts\nRecovery testing Generating many transactions\nMeasuring response time\nSimulating many users\nMeasuring transaction rates\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "007_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 9/60 Answer (Choose answer)\nIncreasing the quality of the software, by better development methods , will affect the time needed for testing (the test phases) by:\nCan't say No change Reducing test time Increasing test time\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "008_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 10/60\nAnswer\n{Choose answer)\nThe\nand\nare used within individual workbenches to produce the right output products_\nProcedures and standards\nReviews and update\nProcesses and walkthroughs\nTools and techniques\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "009_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 12/60 Answer (Choose answer)\nWhich of the following is NOT a standard related to testing?\nBS7925-2 B IEEE829\nIEEE6TO\nBS7925-1\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "010_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 13/60 Answer (Choose answer)\nIn a system designed to work out the tax to be paid: An employee has 54000 of salary tax free The next 51500 5 taxed at 0% The next $28000 is taxed at 22% Any further amount is taxed at 40%. To the nearest $ which of these Is a valid Boundary Value Analysis test case?\n$1500 533501\n$28000\n532001\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "011_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 14/60\nAnswer\n{Choose answer)\nWhich of the following statements regarding static testing is false\nStatic testing includes techniques such as reviews and inspections Static testing includes desk checking Static testing can give measurements such as cyclomatic complexity\nStatic testing requires the running cf tests through the code\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "012_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 15/60 Answer {Choose answer)\nWhich of the following is not a characteristic for Testability?\nSimplicity Observability\nOperability\nRobustness\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "013_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 16/60\nAnswer\n(Choose answer)\nA piece of software has been given what tests in the following will you perform? Test the area's most critica to business processes 2) Test the areas where faults will be maximum 3) Test the easiest functionalities\n1is true 283 are false\nB   1&2 are false; 3 is true\n182 are true and 3 is false\n1.283 are true\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "014_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 17/60\nAnswer\n{Choose answer)\nPoor software characteristics are\nOnly Product risks Only Project risks\nProject risks or Product risks\nProject risks and Product risks\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "015_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 18/60\nAnswer\n(Choose answer)\nIn a review meeting a moderator is a person who\nWrites the documents to be reviewed B   Takes minutes of the meeting\nMediates between pecple\nTakes telephone calls\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "016_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 19/60\nAnswer\n{Choose answer)\nImportant consequences of the impossibility of complete testing are: (Choose one answers)\nWe have no eosy answer for what testing tasks should always be required because every task takes time that could be spent on other high importance tasks\nAll of the cthers\nWe can never be certain that the program bug free\nWe have no definite stopping ponnt for testing wnich makes it easier for some managers to argue for vey little testing\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "017_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 20/60 Answer (Choose answer)\nFault Masking is\nError condition hiding another error condition Masking fault by developer\nCreating test case which does nct reveal fault\nMasking fault by tester\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "018_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 22/60 Answer (Choose answer)\nDuring the software development process at what point can the test process start?\nWhen the code is complete\nWhen the software requirements have been approved\nWhen the design is complete When the first code module is ready for unit testing\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "019_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 23/60 Answer (Choose answer)\nWhich of the following is not the integration strategy?\nTop-down\nDesign based Bottom-up Big 1-bang\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "020_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 25/60 Answer {Choose answer)\nWhat is the purpose of test completion criteria in a test plan:\nTo ensure that the test case pecification complete\nTo know when test planning is complete\nTo set the criteria used in generating test inputs\nTo Know when a specific test has finished its execution\nTo plan when to stop testing\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "N/A (Chưa có comment bình chọn)",
+        "image_file": "021_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 26/60 Answer (Choose answer)\nWhat can static analysis NOT find?\nArray bound violations\nMemory eaks\nUnreachable (\"'dead') code\nThe use of vanable before na5 been defined\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "022_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 27/60 Answer {Choose answer)\nWhich of the following is NOT included in the Test Plan document of the Test Documentation Standard:\nSchedules and deadlines\nQuality plans\nTest environments\nTest items (i.e software versions\nWhat is not to be tested\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "023_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 28/60 Answer (Choose answer)\nPeer Reviews are also called as\nInspection\nWalkthrough\nTechnical Review\nFormal Review\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "024_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 30/60 Answer (Choose answer)\nWhat type of tools to be used for Regression Testing (choose one answer)\n(1) Perormance\nNone of (1) nor (2)\n{2) Record Playback\nBoth of (1) and (2}\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "025_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 32/60 Answer {Choose answer)\nThe Test Cases Derived from use cases\nAre most useful uncovering defects in tne process flows during the testing use of the system\nAre most useful in uncoverng defects in the process flows during real world use of the system\nAre most useful in covenng the defects in the process flows during real world use of the systen\nAre most useful in covenng the defects at the Integration Leve\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "026_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 33/60 Answer {Choose answer)\nIncidents would not be raised against\nTest cases\nImprovements suggested by users\nDocumentation\nRequirements\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "027_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 34/60 Answer (Choose answer)\nWhich of the following statements about component testing is not true?\nComponent testing is also known as isclation cr module testing\nComponent testing does not involve regression testing Component testing should have completion criteria planned Component testing should be peromed by development\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "028_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 35/60 Answer {Choose answer)\n[egvessior testing should be performed: week After the software has changed As often as possible When the environment has changed When the project manager says\nA w&y are true v, x & 2 are false\nw X & y are true. & 2 are false\nwis ine. V XY and 2 are false\nD All of then are true\n8 w are true X - 2 are false\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "029_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 36/60 Answer (Choose answer)\nA person who documents all the issues, problems and open points that were identified during formal review\nAuthor\nManager\nScribe\nModerator\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "030_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 37/60 Answer (Choose answer)\nWhich of the following tools would you use to detect a memory leak?\nDynamic analysis\nMemory analysis\nCoverage analysis\nState analysis\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "031_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 38/60 Answer (Choose answer)\nWhich of the following is the component test standard?\nIEEE 610\nB  BS7925-1\nBS7925-2\nIEEE 829\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "032_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 40/60 Answer {Choose answer)\nAn incident logging system\nIs of limited value\nvaluable source of project inforation during testing if contains all incidents\nShould be used only by the test team\nOnly records defects\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "033_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 42/60 Answer (Choose answer) Who are the persons involved in a Formal Review Manager Moderator Scribe Recorder Assistant Manager iiiiiiiv are true B  iiiiii are true and iv is false ii iii iv are true and is false.",
+        "options": {
+            "D": "L,iv are true and ii . are false Next |want to finish the exan. Finish"
+        },
+        "voted_answer": "B",
+        "image_file": "034_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 43/60 Answer {Choose answer) Which of the following helps_in monitoring the Test Progress Percentage of Test Case Execution Percentage of work done in test environment preparation: Defect Information e g. defect density , defects found and fixed The size of the testing Team and skills of the engineers IV is corect and ;,ii,7 are incorrect B   i,ii are conect and iii,iv are incorrect iiv are correct and ii iii are incorrect",
+        "options": {
+            "D": "i,ii are correct and iv incorrect Next |want to finish the exan. Finish"
+        },
+        "voted_answer": "D",
+        "image_file": "035_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 44/60\nAnswer\n{Choose answer)\nThe purpose of requirement phase is: (choose one answer)\nAll of the others\nB  Tofreeze requirements To understand user needs\nTo define the scope of testing\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "036_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 45/60 Answer {Choose answer)\nA project that is in the implementation phase is six weeks behind schedule The delivery date for the product is four months away The project is not allowed to slip the delivery date or compromise on the quality standards established for his product.Which of the following actions would bring this project back on schedule?\nEliminate some of the requirements that have not yet been implemented\nAsk the current developers to work overtime until the cst work recovered.\nHire more scftware quality assurance personnel.\nAdd more engineers to the project to make up for lost work.\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "037_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 46/60\nAnswer\n(Choose answer)\nGiven the following code; which is true about the minimum number of test cases required for full statement and branch coverage Read P Read IF P+Q > 100 THEN Print \"Large' ENDIF If P > 50 THEN [Print \"P Large ENDIF\n2 tests for statement coverage  2 for branch coverage\ntest for statement coverage 3 for branch coverage\ntest for statement coverage for branch coverage\ntest for statement coverage, 2 for branch coverage\n2 tests for statement coverage 3 for branch coverage\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "038_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 48/60\nAnswer\n(Choose answer)\nWhat determines the level of risk?\nThe cost of dealing with an adverse event if occurs\nThe probability that an adverse event will occur\nThe likelihood of an adverse event and the impact of the event\nThe amount of testing planned Lefore release of system\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "039_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 49/60\nAnswer\n{Choose answer)\nA tool that supports traceability , recording of incidents or scheduling of tests is called:\nA dynamic analysis tool\nA configuration management tool\nA test management tool\ndebugging tool\nAtest execution tool\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "040_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 51/60 Answer {Choose answer)\nTool which stores requirement statements check for consistency and allow requirements to be prioritized and enable individual tests to be traceable to requirements functions and features\nIncident management tools\nNone of the others\nRequirements management tccls\nConfiguration management tools\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "041_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 52/60 Answer (Choose answer)\n[The later in the development life cycle a fault is discovered; the more expensive it is to fix. Why?\nNone of the others\nThe fault has been built into more documentation code. lests eic\nWages are rising\nThe documentation is poOr, s0 takes longer to find out wnat the scftware is doing.\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "042_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 53/60 Answer {Choose answer)\nPeople who dont participate in technical reviews\nTesters\nDevelopers Management Analysts\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "043_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 55/60 Answer (Choose answer)\n[The Provision and Management of a controlled library containing all the configurations items is called as\nConfiguration Identification\nConfiguration Control\nStatus Accounting\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "044_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 56/60 Answer (Choose answer)\nWhich of the following techniques is NOT a White box technique?\nCondition Coverage Boundary value analysis\nDecision Testing and coverage\nStatement Testing and coverage\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "045_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 57/60\nAnswer\n{Choose answer)\n[Testing activity which is performed to expose defects in the interfaces and in the interaction between integrated components is\nUnit Level Testing Integration Level Testing Component esting System Level Testing\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "046_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 58/60 Answer {Choose answer)\n[The principal attributes of tools and automation are choose one answer)\n(2) Accuracy & precision B   (1) Speed & efficiency None of (1) nor (2} Both of (1) and (2}\nNext\n|want to finish the exan. Finish",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "047_SWT301_-_FA_2022_-_FE_212.webp"
+    },
+    {
+        "question": "fuoverflow le choices 60/60 Answer (Choose answer) Match the following: Configuration identification Configuration control 3. Status reporting Configuration auditing WITH Maintains of Cls in a library 6. Checks on the contents of the library Function recording and tracking problems Requires the all CIs and their versions in the system are known A 1-a. 2-b.3-d.4-c.. B  1-d, 2-c 3-d, 4-0 C 1-c. 2-b. 3-0 4-d",
+        "options": {
+            "D": "1-d, 2-0, 3-c. 4-b Next |want to finish the exan. Finish"
+        },
+        "voted_answer": "D",
+        "image_file": "048_SWT301_-_FA_2022_-_FE_212.webp"
+    }
+]

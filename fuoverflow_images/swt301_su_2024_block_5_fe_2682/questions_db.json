@@ -1,0 +1,366 @@
+[
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\npiece of software has been given what tests in the following will you perform ? Test the area's most critica to business processes Test the areas where faults will be maximum Test the easiest functionalities\n182 are true and 3 is false\n1,283 are true\nis true, 283 are false\n182 are false 3 is true\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "001_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nFaults found by users are due to:\nInsufficient time for testing Poor software and poor testing\nBad Iuck\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "002_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nWhich of the following will be the best definition for Testing:\nThe goal  purpose of testing is to demonstrate that the program works_\nThe purpose of testing is to demonstrate that the program is defect free.\nThe purpose of testing is to demonstrate that the program does what it is supposed to do Testing is executing Software for the purpose of finding defects\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "003_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nThe goa of a software tester is to find bugs , find them as early as possible and make sure they get fixed_\nTrue\nFalse\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "004_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nWhich testing is used to verify that the system can perform properly when internal program or system limitations have been exceeded\nStress Testing\nLoad Testing\nPerformance Testing\nVolume testing\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "005_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nExhaustive testing is possible\nTrue\nFalse\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "006_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nDefect Management process does not include Defect prevention\nDeliverable base-lining\nManagement reporting None of the others\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "007_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\n[When reporting faults found to developers_ testers should be\nAs polite; constructive and helpful as possible\nFirm about insisting that bug is not a \"feature if it should be fixed\nDiplomatic ; sensitive to the way they may react to criticism All of the others\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "008_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nA field failure occurs when multiple users access a system. Which of the following is true?\nThis is an acceptable risk of a multi-user system\nInsufficient functional testing has been performed\nThis indicates an important non-functional requirement was not specified and tested.\nIt is not possible to test against such events prior to release\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "009_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nMajority of system errors occur in the\nphase\nRequirements Phase_\nAnalysis and Design Phase\nDevelopment Phase Testing Phase\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "010_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nThe process starting with the terminal modules is called:\nTop-down integration\nBottom-up integration\nNone of the others\nModule integration\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "011_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nThe difference between re-testing and regression testing Re-testing 5 running a test again; regression testing looks for unexpected side effects Re-testing looks for unexpected side effects; regression testing is repeating those tests Re-testing is done after faults are fixed; regression testing is done earlier\nRe-testing uses different environments , regression testing uses the same environment\nRe-testing s done by developers , regression testing is done by independent testers\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "012_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\n[Which of the following defines the expected results of a test? Test case specification: Test design specification: Test procedure specification.\nTest results\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "013_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\n[Which of the following 5 true?\nComponent testing should be black box, system testing should be white box\nIf you find a lot of bugs in testing; you should not be very confident about the quality of software The fewer bugs you find; the better your testing was The more tests you run; the more bugs you will find.\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "014_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nIf an expected result is not specified then:\nWe cannot run the test\nIt may be difficult to repeat the test It may be difficult to determine if the test has passed or failed We cannot automate the user inputs\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "015_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\n[Which of the following not a major task of Exit criteria? Checking test logs against the exit criteria specified in test planning: Logging the outcome of test execution:\nAssessing if more tests are needed.\nWriting test summary report for stakeholders\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "016_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nMatch every stage of the software Development Life cycle with the Testing Life cycle: Hi-level design Code Low-level design Business requirements\nUnit tests Acceptance tests System tests Integration tests\ni-d ii-a iii-c IV-b\nBack Next\nii-d iii-a iv-b\ni-b , ii-a iii-d iv-c\ni-c ii-a , iii-d iv-b\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "017_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nThe\nTesting will be performed by the people at client own locations\nAlpha testing\nField testing\nPerformance testing System testing\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "018_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nDuring the software development process_ at what point can the test process start?\nWhen the code is complete.\nWhen the design is complete\nWhen the software requirements have been approved.\nWhen the first code module is ready for unit testing\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "019_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\n[Which of the following s a static test?\nCode inspection\nCoverage analysis Usability assessment\nInstallation test\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "020_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nSuccess Factors for a review include Each Review does not have predefined objective Defects found are welcomed and expressed objectively Management supports good review process There is an emphasis on learning and process improvement\nii,iii,iv are correct and i is incorrect\niii , 1 , iv is correct and ii is incorrect\ni , iii\nii is in correct\nii is correct\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "021_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nWhich of the following BEST describes the difference between an inspection and walkthrough?\nBoth inspections and walkthroughs are led by the author .\nAn inspection is ed by a moderator and walkthrough is ed by the author .\nBoth inspections and walkthroughs are led by trained moderator .\nA walkthrough is led by the author . The author is not present during inspections .\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "022_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nWhich of the following true about Formal Review or Inspection: Led by Trained Moderator (not the author) - No Pre Meeting Preparations Formal Follow up process Main Objective is to find defects\nii is true and i,iiiiv are false\niiii,iv are true and ii is false\ni,iii,iv are false and IS true\niii is true and I,ii,iv are false\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "023_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nA formal assessment of a work product conducted by one or more qualified independent reviewer to detect defects\nInspection\nWalkthrough\nReview\nNon Conformance\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "024_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nStatic analysis tools are typically used by\nTesters\nDevelopers\nTesters & Developers\nNone of the others\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "025_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nWho is responsible for document all the issues_ problems and open point that were identified during the review meeting\nModerator\nScribe\nReviewers\nAuthor\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "026_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nperson who documents all the issues , problems and open points that were identified during forma revlew\nModerator\nScribe\nAuthor\nManager\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "027_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nPeer Reviews are also called as\nInspection\nWalkthrough\nTechnical Review\nFormal Review\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "028_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\n[Which of the following sa Key Characteristics of Walk Through Scenario Dry Run Peer Group\nPre Meeting Preparations\nFormal Follow Up Process\nIncludes Metrics\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "029_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is Answer (Choose answer) For which of the following would static analysis tool be MOST useful? Supporting reviews",
+        "options": {
+            "B": "Validating models of the software Testing code executed in a special test harness_ Enforcement of coding standards_ Back Next FU (he exam. FUOVERFLOWCOM"
+        },
+        "voted_answer": "D",
+        "image_file": "030_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nWhich of the following would you NOT usually find on a software incident report?\nThe name andor organisationa position of the person raising the problem .\nVersion of the Software Under Test\nSuggestions as to how to fix the problem. Actual and expected results\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "031_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nCoverage measurement\nIs nothing to do with testing\nIs a partial measure of test thoroughness Branch coverage should be mandatory for all software Can only be applied at unit or module testing, not at system testing\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "032_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nThe Test Cases Derived from use cases\nAre most useful in uncovering defects in the process flows during real world use of the system Are most useful in uncovering defects in the process flows during the testing use of the system Are most useful in covering the defects in the process flows during real world use of the system Are most useful in covering the defects at the Integration Level\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "033_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\n[Integration testing in the large involves: Testing the system when combined with other systems . B. Testing a sub-system using stubs and drivers Testing a system with a large number of users Combing software components and testing them in one go.\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "034_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Uei are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nConsider the following state transition diagram of a switch.Which of the following represents an invalid state transition? (Pic ~276)\nOff\nONto OFF\nFaulr\nOFF to ON\nFAULT to ON\nON\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "035_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nWhich test may not mimic real world situations (choose one answer)\n(i) Functional testing Structural Testing\nBoth of (i) and (ii)\nNone of (i) nor (ii)\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "036_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Uei are 60 questions  and your progress of answering Answer (Choose answer) The above diagram represents the following paths through the code vwy Vwz vxy D. vxz What is the MINIMUM combination of paths required to provide full statement coverage? Exhibit: (Pic 4_39) Read p,q,r, true P>q ABCD false P=sIP Back Next ABD",
+        "options": {
+            "C": "A ACD endif true P+r<s false Frp endif FU (he exam. FUOVERFLOWCOM"
+        },
+        "voted_answer": "C",
+        "image_file": "037_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nEquivalence partitioning is\nA black box testing technique used only by developers\nA black box testing technique than can only be used during system testing\nA black box testing technique appropriate to all levels of testing A white box testing technique appropriate for component lesting\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "038_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nWhat is an equivalence partition (also known as an equivalence class)?\nA set of test cases for testing classes of objects\nAn input or output range of values such that only one value in the range becomes test case\nAn input or output range of values such that each value in the range becomes a test case\nAn input or output range of values such that every tenth value in the range becomes test case\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "039_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nThe\nana\nare used within individual workbenches to produce the right output products\nTools and techniques\nProcedures and standards\nProcesses and walkthroughs\nReviews and update\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "040_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nWhat is the main reason for testing software before releasing it?\nTo show that system will work after release\nTo decide when the software is of sufficient quality to release To find as many bugs as possible before release To give information for a risk based decision about release\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "041_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nWhat is the MAIN objective when reviewing software deliverable?\nTo identify potential application failures by use of a test specification.\nTo identify defects in any software work product To identify spelling mistakes in a requirements specification: To identify standards inconsistencies in the code.\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "042_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nWhich of the following is NOT included in the Test Plan document of the Test Documentation Standard:\nTest items (i.e. software versions)\nWhat is not to be tested\nTest environments\nQuality plans\nSchedules and deadlines\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "043_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nPick the best definition of quality\nQuality is job one\nZero defects\nConformance to requirements\nWork as designed\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "044_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nThe Planning phase of a forma review includes   which of the followings?\nExplaining the objectives\nSelecting the personnel, allocating roles\nFollow up\nIndividual Meeting preparations\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "045_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nWhen should configuration management procedures be implemented? During test planning .\nDuring test analysis\nDuring test execution: When evaluating exit criteria\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "046_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nTest Case are grouped into Manageable (and scheduled) units are called as\nTest Harness\nTest Suite\nTest Cycle\nTest Driver\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "047_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nTestware(test cases test dataset)\nNeeds configuration management just like requirements , design and code\nShould be newly constructed for each new version of the software\nIs needed only until the software is released into production or use\nDoes not need to be documented and commented as it does not form part of the released software system\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "048_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\n[Which of the following not a characteristic for Testability?\nOperability\nObservability\nSimplicity\nRobustness\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "049_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\n[Which of the following s NOT a characteristic of User Acceptance Testing?\nUse of automated test execution tools\nTesting performed by users\nTesting against acceptance test criteria\nIntegration of system with user documentation.\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "050_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nFind the mismatch\nTest data preparation tools Manipulate Data bases\nTest design tools Generate test inputs\nRequirement management tools Enables individual tests to be traceable\nConfiguration management tools Check for consistence\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "051_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nWhen new testing tool is purchased, it should be used first by:\nA small team to establish the best way to use the tool\nEveryone who may eventually have some use for the tool\nThe independent testing team\nThe managers to see what projects it should be used in\nThe vendor contractor to write the initial scripts\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "052_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\n[Which_of the following benefits are MOST likely to be achieved by using test tools? Easy to access information about tests and testing Reduced maintenance of testware Easy and cheap to implement. Greater consistency of tests\nii and iv\nand iv\nand iii\nBack Next\nFU (he exam. FUOVERFLOWCOM\nand",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "053_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nThe principal attributes of tools and automation are (choose one answer)\nSpeed & efficiency\nAccuracy & precision\nBoth of (1) and (2)\nNone of (1) nor (2)\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "054_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nWhen new testing tool is purchased, it should be used first by:\nA small team to establish the best way to use the tool\nEveryone who may eventually have some use for the tool\nThe independent testing team The vendor contractor to write the initial scripts\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "055_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\n[Which of the following tools would be involved in the automation of regression test? Data tester\nBoundary tester CapturelPlayback\nOutput comparator .\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "056_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nWith which of the following categories is test comparator tool USUALLY associated?\nTool support for performance and monitoring:\nTool support for static testing\nTool support for test execution and logging_\nTool support for the management of testing and tests\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "057_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nUnreachable code would best be found using:\nCode reviews\nCode inspections\nA coverage tool\nA test management tool\nA static analysis tool\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "N/A (Chưa có comment bình chọn)",
+        "image_file": "058_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\nExhaustive Testing\nIs impractical but possible\npractically possible\nIs impractical and impossible\nIs always possible\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "059_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    },
+    {
+        "question": "fuoverflow Ueie are 60 questions  and your progress of answering is\nAnswer\n(Choose answer)\npiece of software has been given what tests in the following will you perform ? Test the area's most critica to business processes Test the areas where faults will be maximum Test the easiest functionalities\n182 are true and 3 is false\n1,283 are true\nis true, 283 are false\n182 are false 3 is true\nBack Next\nFU (he exam. FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "060_SWT301_-_SU_2024_-_Block_5_-_FE_2682.webp"
+    }
+]

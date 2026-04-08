@@ -1,0 +1,394 @@
+[
+    {
+        "question": "Kizspy Question:\nWhat is an example that is NOT risk?\nMember takes days off sick, delays deadline.\n(Choose answer)\nIn the team, there is a member who has developed library , helping to improve work performance Member lacks technical skills_\nThe assignment schedule must exclude days off and holidays\nWhenever we cross the road, there is some risk that we'll be injured by car.\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "001_Q1.webp"
+    },
+    {
+        "question": "Kizspy Question: 2 How does early testing benefit the software development process? A By delaying defect detection until after release (Choose answer)",
+        "options": {
+            "B": "By identifying defects only at the final stages By finding defects early when they are cheaper to fix D. By increasing the overall cost of testing FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "C",
+        "image_file": "002_Q2.webp"
+    },
+    {
+        "question": "Kizspy Question: 3\nWhat should be a key outcome of the eva luating exit criteria and reporting phase?\nDecisions regarding the continuation or stoppage of testing\n(Choose answer)\nFinalizing the software release without further review\nPlanning for the next development cycle\nDeveloping new test tools and methods\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "003_Q3.webp"
+    },
+    {
+        "question": "Kizspy Question: What is the most effective way to use testing to improve quality? A By focusing on areas of the software most likely to have defects (Choose answer)",
+        "options": {
+            "B": "By performing minimal testing on all features By only testing the new features of the software D. By outsourcing testing to reduce costs FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "A",
+        "image_file": "004_Q4.webp"
+    },
+    {
+        "question": "Kizspy Question: 5\nWhat is the primary benefit of understanding the psychological factors in testing?\nIt allows for complete automation of the testing process\n(Choose answer)\nIt enhances the interaction and effectiveness of the testing team_\nIt eliminates the need for quality assurance.\nIt simplifies compliance with software standards_\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "005_Q5.webp"
+    },
+    {
+        "question": "Kizspy Question: Which approach helps in maintaining good relationships between testers and developers? Minimizing interaction between testers and developers (Choose answer)",
+        "options": {
+            "B": "Encouraging competition on defect findings Providing constructive feedback on defects Focusing solely on automated tests FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "C",
+        "image_file": "006_Q6.webp"
+    },
+    {
+        "question": "Kizspy Question: Why is the test environment set-up included in test implementation? A Itis only relevant during test case design (Choose answer)",
+        "options": {
+            "B": "It is part of the test closure activities It is used for developing test cases The environment needs to be ready for executing test cases FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "D",
+        "image_file": "007_Q7.webp"
+    },
+    {
+        "question": "Kizspy Question:\nWhat is the 'Pesticide Paradox' in testing?\nTesting all combinations is impossible .\n(Choose answer)\nSame tests over time detect fewer issues\nTesting must be exhaustive to find all bugs . Defects tend to cluster in specific modules\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "008_Q8.webp"
+    },
+    {
+        "question": "Kizspy Question:\nFind the explanation of \"Exhaustive testing is impossible\": Testing everything (all combinations of inputs and preconditions) is not feasible except for trivial cases Instead of exhaustive testing we use risks and priorities to focus testing efforts_\n(Choose answer)\nMath formulas for reports that the software will automatically generate_\nIs to execute the same test scenario multiple times to ensure that the previous test did not miss any errors\nTesting can show that defects are present, but cannot prove that there are no\ndefects. Testing reduces the probability of undiscovered defects remaining in the software but; even if no defects are found It Is not proof of correctness\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "009_Q9.webp"
+    },
+    {
+        "question": "Kizspy Question: 10 Find the explanation of \"Early testing\": A Testing activities should start as early as possible in the software or system development life cycle and should be focused on defined objectives (Choose answer)",
+        "options": {
+            "B": "Testing can show that defects are present; but cannot prove that there are no defects . Testing reduces the probability of undiscovered defects remaining in the software but; even if no defects are found It Is not proof of correctness Finding and fixing defects does not help if the system built is unusable and does not fulfill the users' needs and expectations Testing is done differently in different contexts. For example; safety-critical software is tested differently from an e-commerce site. FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "A",
+        "image_file": "010_Q10.webp"
+    },
+    {
+        "question": "Kizspy Question: 11\nFill in the blank: Confirmation testing\nExecute the test again to confirm that the defect has indeed been fixed\n(Choose answer)\nExecute tests with the intent of checking that the system does not now have more defects in it as result of some change\nVerify that modifications in the software or the environment have not caused unintended adverse side effects and that the system still meets its requirements\nValidate the expected results\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "011_Q11.webp"
+    },
+    {
+        "question": "Kizspy Question: 12\nWhat is the role of regression testing in maintenance testing? To ensure that new features disrupt existing functionalities\n(Choose answer)\nTo verify that bug fixes and enhancements do not introduce new defects into existing functionalities To check the functionality of new hardware only .\nTo focus testing solely on new features\n1\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "012_Q12.webp"
+    },
+    {
+        "question": "Kizspy Question: 13 Why is impact analysis important in maintenance testing? It determines the effect of a new marketing campaign (Choose answer)",
+        "options": {
+            "B": "It is used to decide the new features to be added to the system It assesses how changes might affect the existing system components It helps in redesigning the software interface FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "C",
+        "image_file": "013_Q13.webp"
+    },
+    {
+        "question": "Kizspy Question: 14\nWhat does change-related testing include?\nPerformance and stress testing Confirmation and regression testing Usability and compliance testing\n(Choose answer)\nSecurity and reliability testing\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "014_Q14.webp"
+    },
+    {
+        "question": "Kizspy Question: 15\nWhat is the primary objective of functional testing?\nTo assess the system's non-functional characteristics like performance\n(Choose answer)\nTo verify that the software functions according to the specified requirements To evaluate the system's capacity to handle high loads To check the internal code structure of the software.\n1\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "015_Q15.webp"
+    },
+    {
+        "question": "Kizspy Question: 16\nconsists of a set of test cases covering the end-to-end functionality of a software application\nTest Case\n(Choose answer)\nTest scenario\nTest scripts\nNone of the mentioned\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "016_Q16.webp"
+    },
+    {
+        "question": "Kizspy Question: 17\nWhich test level focuses on individual units or components?\n(Choose answer)\nSystem testing B. Integration testing Unit testing Acceptance testing\n `\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "017_Q17.webp"
+    },
+    {
+        "question": "Kizspy Question: 18 How does usability testing differ from performance testing? Usability testing focuses on user-friendliness , while performance testing measures operational capabilities . Usability testing measures how fast the system responds to requests , while performance testing checks for user-friendliness (Choose answer) They do not differ; both terms describe the same tests_",
+        "options": {
+            "D": "Usability testing is a type of performance testing: FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "A",
+        "image_file": "018_Q18.webp"
+    },
+    {
+        "question": "Kizspy Question: 19\nWhat is Integration testing?\nIt tests interfaces between components , interactions to different parts of a system such as an operating system; file system and hardware or interfaces between systems\n(Choose answer)\nIt is unit; module and program testing; searches for defects in, and verifies the functioning of software that are separately testable\nIt is concerned with the behavior of the whole system product as   defined by the scope of a development project or product\n\nThe system will be delivered to the user or customer for testing:\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "019_Q19.webp"
+    },
+    {
+        "question": "Kizspy Question: 20\nWhich test level verifies the application meets business requirements?\nUnit testing\n(Choose answer)\nSystem testing\nIntegration testing\nAcceptance testing\n `\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "020_Q20.webp"
+    },
+    {
+        "question": "Kizspy Question: 21\nWhat is the purpose of a walkthrough?\nTo finalize the document under review\n(Choose answer)\nTo educate participants and gather = feedback\nTo detect critical defects\nTo automate review processes\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "021_Q21.webp"
+    },
+    {
+        "question": "Kizspy Question: 22\nWhich of the following is NOT a benefit of static testing in software development?\nImproving communication between team members in the course of participating in reviews\n(Choose answer)\nReducing testing cost and time\nReducing development cost and time\nReducing the need for documentation\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "022_Q22.webp"
+    },
+    {
+        "question": "Kizspy Question: 23\nWhich of the following options are roles in a formal review? Developer ; Moderator; Review leader; Reviewer; Tester\n(Choose answer)\nAuthor, Moderator, Manager, Reviewer; Developer Author, Manager; Review leader, Reviewer; Designer Author , Moderator, Review leader, Reviewer , Scribe\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "023_Q23.webp"
+    },
+    {
+        "question": "Kizspy Question: 24\nWhich static testing technique analyzes code without executing it?\nError guessing\n(Choose answer)\nEquivalence partitioning\nCode review\nDecision table testing\n1\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "024_Q24.webp"
+    },
+    {
+        "question": "Kizspy Question: 25\nReviews, walkthroughs , and inspections are part of\n(Choose answer)\nDesign process\nValidation process\nVerification process\nManagement process\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "025_Q25.webp"
+    },
+    {
+        "question": "Kizspy Question: 26\nWhich of the following sequences BEST shows the main activities of the work product review process?\nInitiate review - Reviewer selection - Individual   review - Issue communication and analysis Rework\n(Choose answer)\nPlanning & preparation - Overview meeting Individual   review Fixing and Reporting\nPreparation - Issue detection Issue communication and analysis Rework -Report\nPlanning Initiate revlew Individual   review Issue communication and analysis - Fixing and Reporting\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "026_Q26.webp"
+    },
+    {
+        "question": "Kizspy Question: 27\nWhat is the main goal of static testing?\nTo execute the software and identify defects\n(Choose answer)\nTo review documents and source code without executing the software\nTo test the software with a focus on its user interface\nTo validate the software's performance under stress\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "027_Q27.webp"
+    },
+    {
+        "question": "Kizspy Question: 28\nA typical formal review process consists of five main steps. Which is the correct order?\nPlanning Individual review Initiate review\nIssue communication & Analysis\nFixing & Reporting\n(Choose answer)\nPlanning Initiate review\nIndividual review\nIssue communication & Analysis Fixing & Reporting\nInitiate review\nPlanning Individual review Issue communication & Analysis -> Fixing & Reporting\nPlanning Issue communication & Analysis Initiate review Individual revlew\nFixing & Reporting\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "028_Q28.webp"
+    },
+    {
+        "question": "Kizspy Question: 29 Which of the following is benefit of performing reviews in the software development process? Decreasing the amount of documentation required (Choose answer)",
+        "options": {
+            "B": "Eliminating the need for testing the software Identifying defects early and thereby reducing rework costs Extending the software development lifecycle FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "C",
+        "image_file": "029_Q29.webp"
+    },
+    {
+        "question": "Kizspy Question: 30 Which of the following statements are TRUE for Technical Review? L Reviewers should be technical peers of the author, and technica experts in the same or other Il. Review m eeting is typically led by the author Ill. Purposes gaining consensus , detecting potential defects IV. Scribe is mandatory V. Individual preparation before the review meeting is optional (Choose answer) A / Il and Ill",
+        "options": {
+            "B": "Il, Ill and IV 1 1, I/ and IV and V FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "C",
+        "image_file": "030_Q30.webp"
+    },
+    {
+        "question": "Kizspy Question: 31\nWhen would exploratory testing be most beneficial during testing cycle?\nAfter receiving comprehensive training in the application.\n(Choose answer)\nWhen detailed error logs from previous tests are available . When testing needs to be dynamic and adapt to new findings_ Only conjunction with user acceptance testing:\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "031_Q31.webp"
+    },
+    {
+        "question": "Kizspy Question: 32\nWhen utilizing error guessing as your testing strategy what specific type of testing are you performing? A. Specification-based\n(Choose answer)\nStructure-based\nExperience-based\nReference-based\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "032_Q32.webp"
+    },
+    {
+        "question": "Kizspy Question: 33\nWhich technique uses different combinations of inputs to result in different actions being taken?\nError guessing\n(Choose answer)\nDecision table testing\nBoundary value analysis Equivalence partitioning\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "033_Q33.webp"
+    },
+    {
+        "question": "Kizspy Question: 34\nWhich the best thing about the regression test?\nRegression test is only run once\n(Choose answer)\nRegression test will always be automated\nRegression test will check unchanged areas of the software to see if they have been affected\nRegression test will check changed areas of the software to see if they have been affected.\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "034_Q34.webp"
+    },
+    {
+        "question": "Kizspy Question: 35\nConsidering the code provided; which is true about the minimal quantity of test cases necessary for complete statement and branch'decision coverage? Read A Read B IF A+B 50 THEN Print 'Sum two age ENDIF IFB > 20 THEN Print \"B is of adult age ENDIF\n(Choose answer)\n\ntest for statement coverage; 3 for branch coverage\ntest for statement coverage; for branch coverage\ntest for statement coverage; 2 for branch coverage\n2 tests for statement coverage; 2 for branch coverage\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "035_Q35.webp"
+    },
+    {
+        "question": "Kizspy Question: 36\nBoundary Value Analysis is an extension of which technique?\nState Transition Testing\n(Choose answer)\nEquivalence Partitioning\nDecision Table Testing Use Case Testing\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "036_Q36.webp"
+    },
+    {
+        "question": "Kizspy Question: 37\nWhat is the key focus of state transition testing?\nThe changes in state within an application based on varying input conditions The visua aspects of the user interface\n(Choose answer)\nThe stability of application under peak load\nThe compatibility of the software with various operating systems\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "037_Q37.webp"
+    },
+    {
+        "question": "Kizspy Question: 38\nWhat essential skill does exploratory testing require trom tester? Ability to strictly adhere to test scripts\n(Choose answer)\nSpecialization in performance and stress testing\nProficiency in programming and automated tools\nCapacity to plan and execute tests simultaneously\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "038_Q38.webp"
+    },
+    {
+        "question": "Kizspy Question: 39\nIn error guessing what is the tester primarily relying on to identify potential defects?\nFormal specifications and requirements\n(Choose answer)\nRandomly generated test cases Their own experience; intuition; and domain knowledge The feedback from automated testing tools\n1\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "039_Q39.webp"
+    },
+    {
+        "question": "Kizspy Question: 40 Design a test case using Equivalence Partitioning for function that calculates discounts based on Customer age: (Select all that apply) (Choose 3 answers) 1-12 years: 509 discount",
+        "options": {
+            "B": "13-64 years: 20% discount 65 years and above: 309 discount None of the others 1 FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "N/A (Chưa có comment bình chọn)",
+        "image_file": "040_Q40.webp"
+    },
+    {
+        "question": "Kizspy Question: 41\nWhat factor influences the structure of a test organization within project? The personal preferences of the test team\n(Choose answer)\nThe social dynamics of the development team\nThe risk level and complexity of the project\nThe geographical location of the company\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "041_Q41.webp"
+    },
+    {
+        "question": "Kizspy Question: 42\nWhat is the significance of defining scope in a test plan? It outlines the geographical areas where the product will be sold\n(Choose answer)\nIt determines who the end-users will be\nIt clarifies what is included and excluded from testing It sets the price points for various market segments\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "042_Q42.webp"
+    },
+    {
+        "question": "Kizspy Question: 43\nIn a software project; what is the purpose of test closure activities?\nTo plan the next phases of the project.\n(Choose answer)\nTo ensure all test cases are automated for future use\nTo analyze what was done and what could be improved for future projects_\nTo ensure that the software does not have any remaining defects\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "043_Q43.webp"
+    },
+    {
+        "question": "Kizspy Question: 44 Which of the following best describes the role of a test manager? Direct involvement in software programming (Choose answer) Management of the testing process and resources Exclusive focus on software design",
+        "options": {
+            "D": "Handling customer support and feedback FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "B",
+        "image_file": "044_Q44.webp"
+    },
+    {
+        "question": "Kizspy Question: 45\nWhich tool is specifically designed to support the creation of test cases? Test design tool\n(Choose answer)\nTest execution tool\nStatic analysis tool\nTest management tool\n1\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "045_Q45.webp"
+    },
+    {
+        "question": "Kizspy Question: 46 Which of the following are common entry criteria for testing? (Choose 2 correct answers) A. Availability of test environment (Choose answers) Completion of all test cases Approval from the project manager",
+        "options": {
+            "D": "Availability of necessary resources FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "N/A (Chưa có comment bình chọn)",
+        "image_file": "046_Q46.webp"
+    },
+    {
+        "question": "Kizspy Question: 47\nWhich statement best reflects the role of a test leader compared to tester?\nA test leader focuses on test execution while testers focus on test planning\n(Choose answer)\nTest leaders and testers perform exactly the same roles within project\nA test leader manages the testing process while testers focus on test execution\nTesters manage the project while test leaders provide technical support\n1\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "047_Q47.webp"
+    },
+    {
+        "question": "Kizspy Question: 48 What is the final step in the incident management process? A Logging the incident (Choose answer) Reviewing the incident with stakeholders Closing the incident report",
+        "options": {
+            "D": "Assigning the incident to a developer FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "C",
+        "image_file": "048_Q48.webp"
+    },
+    {
+        "question": "Kizspy Question: 49\nWhat should the severity of a defect indicate?\nThe tester's skill level\n(Choose answer)\nThe impact of the defect on the system\nThe cost of the software\nThe timeline of the project\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "049_Q49.webp"
+    },
+    {
+        "question": "Kizspy Question: 50 Why are test strategies important in the planning phase? They determine the programming languages used in development B. They provide roadmap for design and architectura decisions They outline the approach; techniques and priorities for the testing efforts (Choose answer)",
+        "options": {
+            "D": "They specify the user interface design and experience FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "C",
+        "image_file": "050_Q50.webp"
+    },
+    {
+        "question": "Kizspy Question: 51\nWhat is the function of a monitoring tool in the context of testing?\nTo keep track of the status of the system during use\n(Choose answer)\nTo measure the software's response times To automate the generation of test cases To manage the testing activities and resources\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "051_Q51.webp"
+    },
+    {
+        "question": "Kizspy Question: 52\nWhat is the goal of a risk assessment in software testing?\nTo identify , analyze; and prioritize risks\n(Choose answer)\nTo establish a communication plan\nTo define software functionalities\nTo assign tasks to the development team\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "052_Q52.webp"
+    },
+    {
+        "question": "Kizspy Question: 53\nWhich tool supports the review process during static testing?\nA Support reviews tool\n(Choose answer)\nModel-based testing tool\nTest management tool\nDefect management tool\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "053_Q53.webp"
+    },
+    {
+        "question": "Kizspy Question: 54\nWhy is it important to prioritize incidents?\nTo ensure that minor defects are fixed first\n(Choose answer)\nTo focus resources on resolving the most critica defects first\nTo complicate the development process\nTo increase the number of incidents\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "054_Q54.webp"
+    },
+    {
+        "question": "Kizspy Question: 55\nWhich of the following is not benefit of testing tools?\nEasy to implement and maintain\n(Choose answer)\nReduce of repetitive work Ability to detect tiny changes that a human could not It produces more consistent result.\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "055_Q55.webp"
+    },
+    {
+        "question": "Kizspy Question: 56\nWhat information is typically included in the summary section of an incident report? (Choose correct answers)\n(Choose answers)\nPersonal opinions of the tester .\nTest progress metrics\nIncident description and impact.\nSteps to reproduce the issue_\n1\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "N/A (Chưa có comment bình chọn)",
+        "image_file": "056_Q56.webp"
+    },
+    {
+        "question": "Kizspy Question: 57 What is an advantage of using data-driven scripts in test automation? They do not require external data (Choose answer)",
+        "options": {
+            "B": "They separate test data from scripts , enhancing flexibility They are simpler to maintain than linear scripts D. They eliminate the need for scripting knowledge FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "B",
+        "image_file": "057_Q57.webp"
+    },
+    {
+        "question": "Kizspy Question: 58\nWho is responsible for testing in Agile methodology? The developers\n(Choose answer)\nThe testers\nThe whole team\nThe product owner\n1\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "058_Q58.webp"
+    },
+    {
+        "question": "Kizspy Question: 59 What are the success factors for implementing new test tool? (Select all that apply) (Choose answers) Providing ongoing training",
+        "options": {
+            "B": "Adapting processes to fit the tool Immediate organization-wide rollout Continuous monitoring of tool benefits FUO FUOVERFLOWCOM"
+        },
+        "voted_answer": "N/A (Chưa có comment bình chọn)",
+        "image_file": "059_Q59.webp"
+    },
+    {
+        "question": "Kizspy Question: 60\nWhich tool would be most appropriate for testing the load capacity of a server?\nTest management tool\n(Choose answer)\nIncident management tool\nLoad testing tool\nConfiguration management tool\n\nFUO FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "060_Q60.webp"
+    }
+]

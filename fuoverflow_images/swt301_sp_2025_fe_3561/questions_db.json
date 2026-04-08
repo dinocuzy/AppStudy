@@ -1,0 +1,421 @@
+[
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) When to stop Testing? Stop when scheduled time for testing expires Stop if 75% of the pre-defined number of errors is detected. C. Stop when all the test cases execute with detecting few errors_\nNone of the others\nBack Nea\nFUO 'sh the exam FUOVERFLOW COM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "001_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) What is the important criterion in deciding what testing technique to use? How well you know a particular technique\nThe objective of the test\nHow appropriate the technique is for testing the application\nWhether there is a tool to support the technique\nBack Ned\nFUO 'sh the exan. FUOVERFLOW COM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "002_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) What is the purpose of test completion criteria in a test plan:\nTo know when a specific test has finished its execution\nTo ensure that the test case specification is complete\nC To set the criteria used in generating test inputs\nTo know when test planning is complete\nTo plan when to stop testing\nBack Nea\nFUO sh the exam FUOVERFLOW COM",
+        "options": {},
+        "voted_answer": "N/A (Chưa có comment bình chọn)",
+        "image_file": "003_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose 1 answer) [Defect Management process does not include Defect prevention\nDeliverable base-lining C. Management reporting D None of the others\nBack Nea\nFUO 'sh the exam. FUOVERFLOW COM",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "004_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) When what is visible to end-users is a deviation from the specific or expected behavior, this is called:\nAn error\nA fault\nC A failure\n[D A defect\nE A mistake\nBack Nea\nFUO 'sh the exam; FUOVERFLOW COM\nQ",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "005_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) Testing should be stopped when:\n(0) All the defined tests have been executed\nTime has run out\nC (iii) All faults have been fixed correctly\nBoth (0) and (iii)\nIt depends on the risks for the system being tested\nBack Ned\nFUO 'sh the exam FUOVERFLOW COM",
+        "options": {},
+        "voted_answer": "N/A (Chưa có comment bình chọn)",
+        "image_file": "006_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and yOur progress of answering is Answer (Choose answer) A field failure occurs when multiple users access a system.Which of the (following is true? This is an acceptable risk of a multi-user system\nB Insufficient functional testing has been performed\nThis indicates an important non-functional requirement was not specified and tested. It is not possible to test against such events prior to release\nBack Nea\nFUO 'sh the exam. FUOVERFLOWECOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "007_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) Which of the following statements are true?\nFaults in program specifications are the most expensive to fix\nFaults in code are the most expensive to fix\nC Faults in requirements are the most expensive to fix\nFaults in designs are the most expensive to fix.\nBack Nea\nFUO 'sh the exam FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "008_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) Which of the following will be the best definition for Testing: The goal / purpose of testing is to demonstrate that the program works The purpose of testing is to demonstrate that the program is defect free.\nC The purpose of testing is to demonstrate that the program does what it is supposed to do D.  Testing is executing Software for the purpose of finding defects\nBack Ned\nFUO 'sh the exam FUOVERFLOW COM\nJQ: 10",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "009_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) Failure is\nIncorrect program behaviour due to a fault in the program\nBug found before product Release C Bug found after product Release Bug found during Design phase\nBack Nea\nFUO 'sh the exam FUOVERFLOWECOM\nQ: 1l",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "010_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) JIn a risk-based approach the risks identified may be used to Determine the test technique to be employed Determine the extent of testing to be carried out Prioritize testing in an attemptto find critical defects as early as possible Determine the cost of the project ii is True; i, ili, iv & v are False i,iiiii are true and iv is false Ic. ii & iii are True; i, ỉv are False",
+        "options": {
+            "D": "ii, iii & iv are True; is false Back Nea FUO 'sh the exam FUOVERFLOWCOM JQ: 12"
+        },
+        "voted_answer": "B",
+        "image_file": "011_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) [Component Testing is also called as Unit Testing Program_Testing Module Testing System Component Testing: iii iii are true and iv is false",
+        "options": {
+            "B": "iii,iiiv are false Ic. i,iiiv are true and iii is false All of them are true Back Nec FUO sh the exam FUOVERFLOW COM JQ: 13"
+        },
+        "voted_answer": "A",
+        "image_file": "012_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) [The software engineer's role in tool selection is\nTo identify , evaluate; and rank tools, and recommend tools to management\nTo determine what kind of tool ỉs needed, then find it and buy it\nC To initiate the tool search and present a case to management\nD To identify , evaluate and select the tools\nBack Nea\nFUO sh the exam FUOVERFLOWE COM\nJQ: 14",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "013_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Test Implementation and execution has which of the following major tasks? Developing and prioritizing test cases, creating test data; writing test procedures and optionally preparing the Itest harnesses and writing automated test scripts Creating the test suite from the test cases for efficient test execution: Verifying that the test environment has been set up correctly Determining the exit criteria . i,ii,iii are true and iv is false i,iv are true and ii is false iii are true and iỉi,ív are false",
+        "options": {
+            "D": "ii,iii,iv are true and is false Back Nea FUO 'sh the exam FUOVERFLOWCOM JQ: 15"
+        },
+        "voted_answer": "A",
+        "image_file": "014_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) Amount of testing performed will not depend on\nRisks involved\nContractual requirements\nC Legal requirements\nD Test data\nBack Nea\nFUO 'sh the exam FUOVERFLOW COM\nJQ: 16",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "015_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) Who would USUALLY perform debugging activities?\nDevelopers\nAnalysts\nC Testers\nD Incident Managers\nBack Nea\nFUO- sh the exam FUOVERFLOW COM\nJQ: 17",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "016_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose onswer) Regression testing should be performed: Every week After the software has changed As often as possible iv . When the environment has changed When the project manager says i& ii are true; iii, iv & v are false B ii, iii & iv are true, & v are false",
+        "options": {
+            "C": "ii & iv are true i, iii & v are false",
+            "D": "iiis true, i, iii, iv & v are false Back Nea FUO 'sh the exam FUOVERFLOWE COM JQ: 18"
+        },
+        "voted_answer": "C",
+        "image_file": "017_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) Which of the following is true?\nComponent testing should be black box, system testing should be white box If you find a lot of bugs in testing; you should not be very confident about the quality of software C The fewer bugs you find, the better your testing was The more tests you run; the more bugs you will find:\nBack Nea\nFUO- 'sh the exam FUOVERFLOW COM\nJQ: 19",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "018_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Which is not the project risks Supplier issues",
+        "options": {
+            "B": "Organization factors C Technical issues Error-prone software delivered Back Ned FUO sh the exam FUOVERFLOWCOM JQ: 20"
+        },
+        "voted_answer": "D",
+        "image_file": "019_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) [Static analysis tools are typically used by Testers",
+        "options": {
+            "B": "Developers C. Testers & Developers D None of the others Back Nea FUO 'sh the exam FUOVERFLOWCOM JQ: 21"
+        },
+        "voted_answer": "B",
+        "image_file": "020_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) The Phases of formal review process is mentioned below arrange them in the correct order Planning Review Meeting Rework Individual Preparations Kick Off Follow Up iiiiiiv,v;vi",
+        "options": {
+            "B": "vỉỉỉiiiiiv,v",
+            "C": "iviv,ii,iii,vi Back Nea D iiiiii,v,iv,vi FUO 'sh the exam FUOVERFLOW COM JQ: 22"
+        },
+        "voted_answer": "C",
+        "image_file": "021_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) In a review meeting a moderator is a person who Takes minutes of the meeting\nMediates between people\nC Takes telephone calls\nWrites the documents to be reviewed\nBack Nea\nFUO sh the exam FUOVERFLOWCOM\nJQ: 23",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "022_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) [The Kick Off phase of a formal review includes the following: Explaining the objective",
+        "options": {
+            "B": "Fixing defects found typically done by author C Follow up Individual Meeting preparations Back Nec FUO- sh the exam FUOVERFLOW COM JQ: 24"
+        },
+        "voted_answer": "A",
+        "image_file": "023_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) Which of the following BEST describes the difference between an inspection and a walkthrough? Both inspections and walkthroughs are led by the author\nAn inspection is led by a moderator and a walkthrough is led by the author. C Both inspections and walkthroughs are led by a trained moderator . D A walkthrough is led by the author . The author is not present during inspections.\nBack Nea\nFUO 'sh the exam. FUOVERFLOWECOM\nJQ: 25",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "024_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Peer Reviews are also called as Inspection Walkthrough",
+        "options": {
+            "C": "Technical Review Formal Review Back Nea FUO 'sh the exam FUOVERFLOW COM JQ: 26"
+        },
+        "voted_answer": "C",
+        "image_file": "025_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Which of the following is not a static testing technique? Error guessing Walkthrough",
+        "options": {
+            "C": "Data flow analysis Inspections Back Nec FUO 'sh the exam FUOVERFLOWECOM JQ: 27"
+        },
+        "voted_answer": "A",
+        "image_file": "026_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Find the correct flow of the phases of a formal review Planning; Review meeting; Rework, Kick off",
+        "options": {
+            "B": "Planning; Individual preparation; Kick off, Rework c. Planning; Review meeting; Rework, Follow up D  Planning, Individual preparation; Follow up, Kick off Back Ned FUO sh the exam FUOVERFLOW COM JQ: 28"
+        },
+        "voted_answer": "C",
+        "image_file": "027_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Which of the following is a static test? Code inspection",
+        "options": {
+            "B": "Coverage analysis C. Usability assessment Installation test Back Ned FUO 'sh the exam FUOVERFLOW COM JQ: 29"
+        },
+        "voted_answer": "A",
+        "image_file": "028_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) People who don t participate in technical reviews\nAnalysts\nB  Management C. Developers D.  Testers\nBack Nea\nFUO 'sh the exam FUOVERFLOW COM\nJQ: 30",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "029_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose onswer) Testing without a real plan and test cases is called\n(choose one answer)\nGorilla testing B. Monkey 'testing Adhoc testing\nD All of the others\nBack Ned\nFUO. sh the exam FUOVERFLOWECOM\nJQ: 31",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "030_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) Which of the following is the main purpose of the integration strategy for lintegration tes sting in the small? To ensure that all of the small modules are tested adequately\nB To ensure that the system interfaces to other systems and networks\nTo specify which modules to combine when and how many at once To ensure that the integration testing can be performed by a small team To specify how the software should be divided into modules\nBack Nea\nFUO 'sh the exam FUOVERFLOW COM\nQ: 32",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "031_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose onswer) [If the pseudo code below were a programming language; how many tests are required to achieve 1009 statement coverage? If x=3 then 2 Display_messageX; 3 If y=2 then Display_messageY; 5. Else 6 Display_messageZ; 7.Else 8 Display_messageZ; A",
+        "options": {
+            "B": " Back Nea Ic. 3 D FUO sh the exam FUOVERFLOW COM Q: 33"
+        },
+        "voted_answer": "C",
+        "image_file": "032_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Expected results are Only important in system testing Only used in component tes sting C Never specified in advance",
+        "options": {
+            "D": "Most useful when specified in advance Derived from the code Back Nec FUO 'sh the exam FUOVERFLOW COM Q: 34"
+        },
+        "voted_answer": "D",
+        "image_file": "033_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) [Cyclomatic Complexity method comes under which testing method\nWhite box\nBlack box\nC Green box\nYellow box\nBack Nez\nFUO sh the exam. FUOVERFLOWCOM\nJQ: 35",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "034_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose onswer) [Given the following code, which is true: JIF A > B THEN C =A - B ELSE C = A + B ENDIF Read D IF C = D Then Print \"Error' ENIF\ntest for statement coverage 3 for branch coverage\n2 tests for statement coverage; 2 for branch coverage\nBack Nea\n2 tests for statement coverage. 3 for branch coverage\n3 tests for statement coverage; 3 for branch coverage\n3 tests for statement coverage; 2 for branch coverage\nFUO- 'sh the exam FUOVERFLOW COM\nJQ: 36",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "035_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) [One of the fields on a form contains a text box, which accepts alphabets in lower or upper case. Identify the invalid Equivalence class value\nCLASS\ncLASS\nCLass\nCLaOIss\nBack Nea\nFUO sh the exam; FUOVERFLOW COM\nJQ: 37",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "036_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Match the following terms and statements 1 Decision Table 7 esting 2 Decision Tesongesting 3 State Transition 4 Exploratory Testing Iw. Testing carried out w boxes to achieve specific test objectives , possibly to complement structured {testing A test technique uSed which may be used to verỉfy different system re depending on current conditions or previous history A test technique which combines combinations of inputs that might not otherwise have been exercised during testing {E. Z A form of control flow testing based on decision outcomes A IY, 2Z 3X, 4W. Back Nea IX 2W, 3Z, 4Y.",
+        "options": {
+            "C": "1Z 2X, 3W, 4Y.",
+            "D": "1Z, 2Y, 3X, 4W. FUO 'sh the exam; FUOVERFLOWCOM JQ: 38"
+        },
+        "voted_answer": "A",
+        "image_file": "037_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) [Typical defects that are easier to find in reviews than in dynamic testing are (choose one answer): Deviations from standards Requirement defects ,",
+        "options": {
+            "C": "Design defects Insufficient maintainability and incorrect interface specifications All of the others Back Nea FUO 'sh the exam FUOVERFLOW COM JQ: 39"
+        },
+        "voted_answer": "N/A (Chưa có comment bình chọn)",
+        "image_file": "038_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Rule Rule 2 Rule 3 Rule 4 Given the following decision table: Which of the following test cases and expected results is VALID? (Pic 4_21) Conditions 23 year old in insurance class 4 Premium is 9O and excess is 2.500. Age <21 yrs 21-29 yrs 30-5Oyrs B 31 year old in insurance class B Premium is 90 and excess is 2,500 Insurance Class A or B",
+        "options": {
+            "B": "C or D C or D Back Net C 51 year old in insurance class C Premium is 70 and excess is 500. Actions D  43year old in insurance class C Premium is 70and excess is 1,00o Premium E100 E90 E70 E7o Excess {2, 500 É2,500 E5oo E1000 FUO 'sh the exam FUOVERFLOW COM JQ: 40 5Oyrs"
+        },
+        "voted_answer": "A",
+        "image_file": "039_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) One Key reason why developers have difficulty testing their own work is\nLack of technical documentation\nLack of test tools on the market for developers C Lack of training D Lack of Objectivity\nBack Ned\nFUO= 'sh the exam FUOVERFLOWCOM\n0 41",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "040_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) Fault Masking is Error condition hiding another error condition B.  Creating a test case which does not reveal a fault c. Masking a fault by developer D. Masking a fault by a tester\nBack Nea\nFUO 'sh the exam FUOVERFLOWE COM\nJQ: 42",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "041_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Which of the following is a MAJOR task of test planning? Scheduling test analysis and design tasks. B.  Initiating corrective actions C. Monitoring progress and test coverage",
+        "options": {
+            "D": "Measuring and analyzing results Back Nea FUO 'sh the exam FUOVERFLOWCOM JQ: 43"
+        },
+        "voted_answer": "A",
+        "image_file": "042_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Which is not the tes sting objectives Finding defects B.  Gaining confidence about the level of quality and providing information",
+        "options": {
+            "C": "Preventing defects",
+            "D": "Debugging defects Back Nea FUO 'sh the exam FUOVERFLOW COM JQ: 44"
+        },
+        "voted_answer": "D",
+        "image_file": "043_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) [Software quality is not relevant to Correctness Usability",
+        "options": {
+            "C": "Viability",
+            "D": "Reusability Back Nea FUO 'sh the exam FUOVERFLOWCOM JQ: 45"
+        },
+        "voted_answer": "C",
+        "image_file": "044_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) What determines the level of risk?\nThe cost of dealing with an adverse event if it occurs\nThe probability that an adverse event will occur\nC The amount of testing planned before release of a system. The likelihood of an adverse event and the impact of the event\nBack Nex\nFUO sh the exam FUOVERFLOW COM\nJQ: 46",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "045_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) What is the main reason for testing software before releasing it? To show that system will work after release To decide when the software is of sufficient quality to release C To find as many bugs as possible before release",
+        "options": {
+            "D": "To give information for a risk based decision about release Back Nec FUO sh the exam FUOVERFLOWCOM Q: 47"
+        },
+        "voted_answer": "D",
+        "image_file": "046_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) Which of the following is a type of non-functional testing?\nUsability testing\nStatement Coverage .\nC Dataflow testing- D. Cause-effect graphing\nBack Nea\nFUO 'sh the exam FUOVERFLOWE COM\nJQ: 48",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "047_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) [Testware(test cases , test dataset)\nNeeds configuration management just like requirements , design and code\nShould be newly constructed for each new version of the software\nC Is needed only until the software is released into production or use\nD Does not need to be documented and commented, as it does not form part of the released software system\nBack Ned\nFUO 'sh the exam FUOVERFLOWCOM\nJQ: 49",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "048_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) [Test Case are grouped into Manageable (and scheduled) units are called as Test Harness\nTest Suite\nC Test Cycle\nD Test Driver\nBack Nea\nFUO- 'sh the exam; FUOVERFLOWECOM\nJQ: 50",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "049_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Which tool will be used to test the ílag memory leaks and unassigned pointers Dynamic analysis tool Static Analysis tool C Maintenance tool.",
+        "options": {
+            "D": "Configuration tool: Back Nea FUO 'sh the exam FUOVERFLOW COM JQ: 51"
+        },
+        "voted_answer": "A",
+        "image_file": "050_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose onswer) [Defects discovered by static analysis tools include: Variables that are never used. Security vulnerabilities Programming Standard Violations liv . Uncalled functions and procedures\nA i , iiiiiiv is correct\niii ,is correct /,ii,iv are incorrect\nIc. i,ỉi, iii and ỉv are incorrect\nD WV , ii is correct\nBack Nea\nFUO 'sh the exam FUOVERFLOW COM\nQ: 52",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "051_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) tool that supports traceability , recording of incidents or scheduling of tests is called:\nA dynamic analysis tool\nA test execution tool\nC\ndebugging tool A test management tool\nA configuration management tool\nBack Nea\nFUO 'sh the exam; FUOVERFLOW COM\nQ: 53",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "052_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) The place to start if you want a (new) test tool is:\nAttend a tool exhibition\nInvite a vendor to give a demo C. Analyze your needs and requirements\nFind out what your budget would be for the tool\nSearch the internet\nBack Nec\nFUO Ish the exam. FUOVERFLOW COM\nJQ: 54",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "053_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Which of the following benefits are MOST Iikely to be achieved by using test tools? Easy to access information about tests and testing: Reduced maintenance of testware Easy and cheap to implement. Greater consistency of tests ii and iv ii and iii Ic. iand iv",
+        "options": {
+            "D": "i and iii Back Nea FUO 'sh the exam FUOVERFLOW COM Q: 55"
+        },
+        "voted_answer": "C",
+        "image_file": "054_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose onswer) The Provision and Management of a controlled library containing all the |configurations items is called as\nConfiguration Control\nB Status Accounting\nConfiguration Identification\nBack Nea\nFUO sh the exam FUOVERFLOW COM\nJQ: 56",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "055_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and yOur progress of answering is Answer (Choose answer) When a new testing tool is purchased it should be used first by: A small team to establish the best way to use the tool Everyone who may eventually have some use for the tool",
+        "options": {
+            "C": "The independent testing team The vendor contractor to write the initial scripts Back Ned FUO 'sh the exam FUOVERFLOW COM JQ: 57"
+        },
+        "voted_answer": "A",
+        "image_file": "056_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer) [The principal attributes of tools and automation are (choose one answer)\n(1) Speed & efficiency\n(2) Accuracy & precision\nC Both of (1) and (2)\nD None of (1) nor (2)\nBack Nea\nFUO= 'sh the exam FUOVERFLOW COM\nJo: 58",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "057_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose onswer) [The vendor contractor to write the initial scripts Measuring response time",
+        "options": {
+            "B": "Measuring transaction rates C. Recovery testing D  Simulating many users E Generating many transactions Back Nea FUO 'sh the exam FUOVERFLOW COM JQ: 59"
+        },
+        "voted_answer": "D",
+        "image_file": "058_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose onswer) Which of the following activities should be performed during the selection and implementation of a testing Itool? Investigate the organisation's test process Conduct a proof of concept Implement the selected tool on a project behind schedule to save time Identify coaching and mentoring requirements for the use of the selected tool. A i, ii, iii.",
+        "options": {
+            "B": "ii, iii, iv . Ic. i, iii, iv . JD. i, ii; iv . Back Nea FUO sh the exam FUOVERFLOW COM JQ: 60"
+        },
+        "voted_answer": "D",
+        "image_file": "059_SWT301_-_SP_2025_-_FE_3561.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) indicates how important it is to fix the bug and when it should be fixed. (choose one answer) (i) Severity Priority C Both of (i) and (ii)",
+        "options": {
+            "D": " 9096 FUO 'sh the exam FUOVERFLOW COM"
+        },
+        "voted_answer": "C",
+        "image_file": "060_SWT301_-_SP_2025_-_FE_3561.webp"
+    }
+]

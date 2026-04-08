@@ -1,0 +1,387 @@
+[
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhich of the following defines the expected results of a test? Test case specification Test design specification Test procedure specification.\nTest results\nBack Net\nFUOs sh the exam FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "001_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "e\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhich is not the fundamental test process Planning and control\nTest closure activities\nAnalysis and design\nNone of the others\nBack Net\nFUO sh the exam FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "002_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nThe Test Cases Derived from use cases\nAre most useful in uncovering defects in the process flows during real world use of the system Are most useful in uncovering defects in the process flows during the testing use of the system Are most useful in covering the defects in the process flows during real world use of the system\nAre most useful in covering the defects at the Integration Level\nBack Net\nFUOs sh the exam FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "003_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Which of the following helps_in monitoring the Test Progress: Percentage of Test Case Execution Percentage of work done in test environment preparation: Defect Information e g. defect density , defects found and fixed iv . The size of the 'testing Team and skills of the engineers iv is correct and i,ii iii are incorrect",
+        "options": {
+            "B": "i,ii,iii are correct and iv is incorrect C iii are correct and iii,ỉv are incorrect iiv are correct and ii jii are incorrect Back Net FUOs sh the exam FUOVERFLOWCOM"
+        },
+        "voted_answer": "B",
+        "image_file": "004_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhich of the following is MOST important in the selection of a test approach? Availability of tools to support the proposed techniques The budget allowed for training in proposed techniques\nAvailable skills and experience in the proposed techniques The willingness of the test team to learn new techniques\nBack Net\nFUO sh the exam FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "005_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "e 5\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhat type of testing will you perform on internet banking solution? System integration Functional testing Non-functional testing- Requirements testing\nBack Net\nFUOs sh the exam FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "006_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "e fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Defects discovered by static analysis tools include: Variables that are never used. Security vulnerabilities Programming Standard Violations liv . Uncalled functions and procedures A i , iiiiiiv is correct ,is correct /,iiiv are incorrect.",
+        "options": {
+            "C": "i,ii, iii and iv are incorrect ii is correct Back Net FUOs sh the exam FUOVERFLOWCOM"
+        },
+        "voted_answer": "A",
+        "image_file": "007_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "0\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhen a new testing tool is purchased, it should be used first by: A small team to establish the best way to use the tool\nEveryone who may eventually have some use for the tool\nThe independent testing team\nThe managers to see what projects it should be used in\nThe vendor contractor to write the initial scripts\nBack Net\nFUOs sh the exam FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "008_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "0\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nUnreachable code would best be found using: Code reviews\nCode inspections\nA coverage tool\nA test management tool\nA static analysis tool\nBack Net\nFUO sh the exam FUOVERFLOWCOM",
+        "options": {},
+        "voted_answer": "N/A (Chưa có comment bình chọn)",
+        "image_file": "009_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "0\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhat is the difference between testing software developed by contractor outside your country , versus testing Isoftware developed by a contractor within your country?\nDoes not meet people needs\nCultural difference\nLoss of control over reallocation of resources\nRelinquishments of control\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 10",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "010_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2s 5\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhich of the following is NOT a main principle for tool selection? Understanding of the technologies used by the competitors Evaluation of tools against clear requirements and objective criteria\nEstimation of a cost-benefit ratio\nAssessment of the maturity of the organization\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nQ: 11",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "011_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nPoor software characteristics are\nOnly Project risks\nOnly Product risks\nProject risks and Product risks\nProject risks or Product risks\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 12",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "012_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\n[The Provision and Management of a controlled library containing all the configurations items is called as Configuration Control\nStatus Accounting\nConfiguration Identification\nBack Nea\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 13",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "013_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhich of the following is NOT a characteristic of User Acceptance Testing? Use of automated test execution tools\nTesting performed by users. Testing against acceptance test criteria Integration of system with user documentation.\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 14",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "014_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nThe purpose of requirement phase is\nTo freeze requirements\nTo understand user needs\nTo define the scope of testing\nAll of the others\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 15",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "015_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Which of the following statements best describes the difference between severity and priority in software [testing? Severity refers to the importance of a defect to end-users , while priority refers to the impact on the development team",
+        "options": {
+            "B": "Severity represents the likelihood of a defect occurring; while priority determines the urgency of fixing a defect Severity refers to the impact of a defect on the system , while priority indicates the order in which defects should be fixed. Severity indicates the importance of a requirement; while priority determines the criticality of a defect. Back Net FUOs sh the exam FUOVERFLOWCOM JQ: 16"
+        },
+        "voted_answer": "C",
+        "image_file": "016_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nOrder numbers on a stock control system can range between 10000 and 99999 inclusiveWhich of the (following inputs might be a result of designing tests for only valid equivalence classes and valid boundaries:\n1000, 5000, 99999\n9999, 50000,100000\n10000, 50000, 99999\n10000, 99999\n9999,10000, 50000, 99999,10000\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 17",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "017_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Regression tes sting should be performed: Évery week w) After the software has changed As often as possible When the environment has changed When the project manager says v & w are true; X - Z are false",
+        "options": {
+            "B": "w;x & y are true; v & z are false C. w & y are true, V, X & z are false w is true, V,Xy and z are false Back Net All of them are true FUOs sh the exam FUOVERFLOWCOM JQ: 18"
+        },
+        "voted_answer": "C",
+        "image_file": "018_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhich of the following is not a static testing technique? Error guessing\nWalkthrough\nData flow analysis\nInspections\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 19",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "019_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2 5\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nInspections can find all the following except\nVariables not defined in the code\nSpelling and grammar faults in the documents Requirements that have been omitted from the design documents\nHow much of the code has been covered\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 20",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "020_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2 5 fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Exit Criteria may consist of Thoroughness measures , such as coverage of code; functionality or risk Estimates of Defect density or reliability measures Residual risk such as defects not fixed or lack of test coverage in certain areas Verifying the Test Environment iv is correct and i,ii iii are incorrect",
+        "options": {
+            "B": "i,iiiii is correct and iv is incorrect ii is correct and Ỉi,iii are incorrect iii and iv are correct and izii are incorrect Back Net FUOs sh the exam FUOVERFLOWCOM Q: 21"
+        },
+        "voted_answer": "B",
+        "image_file": "021_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\n[The\nand\nare used within individual workbenches to produce the right output products_\nTools and techniques\nProcedures and standards\nProcesses and walkthroughs\nReviews and update\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 22",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "022_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2\n8\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\n[Test Conditions are derived from:\nSpecifications\nTest Cases\nTest Data\nTest Design\nBack Nex\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 23",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "023_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "8l fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Success Factors for a review include Each Review does not have a predefined objective Defects found are welcomed and expressed objectively Management supports a good review process iv . There is an emphasis on learning and process improvement ii,iii,iv are correct and i is incorrect",
+        "options": {
+            "B": "iii , i , iv is correct and ii is incorrect",
+            "C": "i , ili , Iv , iiis in correct ii is correct Back Net FUOs sh the exam FUOVERFLOWCOM JQ: 24"
+        },
+        "voted_answer": "A",
+        "image_file": "024_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhen a defect is detected and fixed then the software should be retested to confirm that the original defect has been successfully removed.This is called Regression testing\nMaintenance testing Confirmation testing\nNone of the above\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 25",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "025_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\n[Test managers should not:\nReport on deviations from the project plan\nSign the system off for release\nRe-allocate resource to meet original plans\nRise incidents on faults that they have found\nProvide information for risk analysis and quality improvement\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 26",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "026_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "1\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nThe place to start if you want a (new) test tool is:\nAttend a tool exhibition\nInvite a vendor to give a demo Analyze your needs and requirements\nFind out what your budget would be for the tool\nSearch the internet\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 27",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "027_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nA tool that supports traceability , recording of incidents or scheduling of tests is called: A dynamic analysis tool\nA test execution tool\nA debugging tool\nA test management tool\nA configuration management tool\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 28",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "028_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2\n1\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhat type of tools t0 be used for Regression Testing (1) Performance\n(2) Record Playback\nBoth of (1) and (2)\nNone of (1) nor (2)\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 29",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "029_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2 5\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nA program validates a numeric field as follows: [Values less than 10 are rejected; values between 10 and 21 are accepted; values greater Ithan or equal to 22 are rejected. Which of the following covers the MOST boundary values? A 9,10,11,22\nB 9,10,21,22\n10,11,21,22\n10,11,20,21\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 30",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "030_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2c 5\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nHandover of Testware is a part of which Phase\nTest Analysis and Design Test Planning and control Test Closure Activities\nEvaluating exit criteria and reporting\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 31",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "031_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2c 5\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nFault Masking is Error condition hiding another error condition B.  Creating a test case which does not reveal a fault Masking a fault by developer Masking fault by a tester\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 32",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "032_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2c fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) 'Xhas given a data on a person age, which should be between to 99 Using BVA which is the appropriate one 0,1,2,99",
+        "options": {
+            "B": "1, 99,100, 98",
+            "C": "0, 1, 99,100",
+            "D": "-1,0, 1,99 Back Net FUOs sh the exam FUOVERFLOWCOM JQ: 33"
+        },
+        "voted_answer": "C",
+        "image_file": "033_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2c 5\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhich of the following is the standard for the Software product quality ISO 9126\nISO 829\nISO 1012\nISO 1028\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 34",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "034_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nA typical commercial test execution tool would be able to perform all of the following EXCEPT:\nGenerating expected outputs B.  Replaying inputs according to a programmed script Comparison of expected outcomes with actual outcomes D. Recording test inputs Reading test values from a data file\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 35",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "035_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "1c\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nAccording to the ISTQB Glossary , a risk relates to which of the following? Negative feedback to the tester .\nNegative consequences that will occur . Negative consequences that could occur.\nNegative consequences for the test object.\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 36",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "036_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions and your progress of answering is Answer (Choose answer) What is the expected result for each of the following test cases (Pic 4 272) Citibank card member, holding Silver room B Non Citibank-member, holding Platinum room A - Don t offer ony upgrade Don t offer any upgrade A -Dont offer any upgrade B - Offer upgrade to Gold A - Offer upgrade to Gold, B - Dont offer any upgrade A - Offer upgrade to Silver. B Offer upgrade to Silver Back Net\nConditions\nCitibank Card\nYes\nYes\nNo\nNo\nMember\nType of Room\nSilver\nPlatinum Silver\nPlatinum\nActions\nOffer upgrade Yes\nNo\nNo\nNo\nTo Gold Luxury\nOffer upgrade N/A to Silver\nYes\nN/A\nNo\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 37",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "037_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhat is the MAIN objective when reviewing a software deliverable? To identify potential application failures by use of a test specification To identify defects in any software work product To identify spelling mistakes in a requirements specification. To identify standards inconsistencies in the code\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 38",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "038_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\n[mpact Analysis helps to decide\nHow much regression testing should be done\nExit Criteria\nHow many more test cases need to written Different Tools to perform Regression Testing\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 39",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "039_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhen do you stop testing?\nWhen the specified number of faults are found\nWhen the test completion criteria are met\nWhen all high and medium priority tests are complete.\nWhen all statements have been executed\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 40",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "040_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\n[The inputs for developing a test plan are taken from Project plan\nBusiness plan\nSupport plan\nNone of the others\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nQ: 41",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "041_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhen reporting faults found to developers , testers should be: As polite; constructive and helpful as possible Firm about insisting that a bug is not a \"feature\" if it should be fixed Diplomatic , sensitive to the way they may react to criticism\nAll of the others\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 42",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "042_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nAmount of testing performed will not depend on\nRisks involved\nContractual requirements\nLegal requirements\nTest data\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 43",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "043_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhich of the following is not the integration strategy? Design based\nBig-bang Bottom-up\nTop-down\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 44",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "044_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2g 5g\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nMethodologies adopted while performing Maintenance Testing Breadth Test and Depth Test Re-testing Confirmation Testing Sanity Testing\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 45",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "045_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2g s fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) [f a candidate is given an exam of 40 questions , should get 25 marks to pass (61%) and should get 809 for Idistinction; what ís equivalence class . 23,24, 25",
+        "options": {
+            "B": "0, 12,25 30, 36, 39 32,37,40 Back Net FUOs sh the exam FUOVERFLOWCOM JQ: 46"
+        },
+        "voted_answer": "D",
+        "image_file": "046_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2g fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) Given the following fragment of code, how many tests are required for 1009 decision coverage? if width length then biggest_dimension width if height > width then biggest_dimension height end else biggest_dimension = length if height > length then biggest_dimension height end end Back Net",
+        "options": {
+            "B": "",
+            "C": "",
+            "D": " FUOs sh the exam FUOVERFLOWCOM JQ: 47"
+        },
+        "voted_answer": "B",
+        "image_file": "047_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2g 5g\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nis a very early build intended for limited distribution to a few key customers and to marketing for demonstration purposes\nAlpha release\nBeta release\nTest release document\nBuild\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 48",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "048_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2c 1\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nMaintenance releases and technical assistance centers are examples of which of the following costs of quality'\nExternal failure\nInternal failure\nAppraisal\nPrevention\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 49",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "049_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "e\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhich testing is used to verify that the system can perform properly when internal program or system llimitations have been exceeded\nStress Testing Load Testing Performance Testing Volume 'testing\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 50",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "050_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2g\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nThere are several risks of managing your project's schedule wỉth a statistical reliability model. These include: Testers spend more energy early in the product trying to find bugs than preparing to do the rest of the project's work more efficiently\nB Managers might not realize that the testing effort is ineffective; late in the project; because they expect a llow rate of bug finding; so the low rate achieved doesn't alarm them.\nIt can increase the end-of-project pressure on testers to not find bugs , or to not report bugs\nD All of the others\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 51",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "051_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2g 5\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nReviewing the test Basis is a part of which phase Test Analysis and Design\nTest Implementation and execution\nTest Closure Activities\nEvaluating exit criteria and reporting\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 52",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "052_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2g\n1\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\n[To make a test case effective it is most important that:\nIt is easy to execute\nIt is designed to detect faults if present\nThe expected outcome is specified before execution It is unlikely to delay progress\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 53",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "053_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2g 5\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhich of the following is a test type?\nComponent testing Functional testing System testing Acceptance testing\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 54",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "054_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "8 5\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nWhen should configuration management procedures be implemented? During test planning\nDuring test analysis During test execution:. When evaluating exit criteria\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 55",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "055_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2 fuoverflow There are 60 questions, and your progress of answering is Answer (Choose answer) [Tool which stores requirement statements , check for consistency and allow requirements to be prioritized and enable individual tests to be traceable to requirements , functions and features Incident management tools",
+        "options": {
+            "B": "Requirements management tools Configuration management tools None of the others Back Net FUOs sh the exam FUOVERFLOWCOM JQ: 56"
+        },
+        "voted_answer": "B",
+        "image_file": "056_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nA regression test:\nWill always be automated\nWill help ensure unchanged areas of the software have not been affected\nWill help ensure changed areas of the software have not been affected Can only be run during user acceptance testing\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 57",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "057_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "2\n1\nfuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nBug life cycle\nOpen; Assigned; Fixed, Closed\nOpen, Fixed, Assigned , Closed\nAssigned; Open; Closed; Fixed\nAssigned, Open; Fixed, Closed\nBack Nex\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 58",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "058_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nThe person who leads the review of the document(s), planning the review, running the meeting and follow-up lafter the meeting\nReviewer\nAuthor\nModerator\nAuditor\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nJQ: 59",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "059_SWT301_-_SU_2024_-_FE_2327.webp"
+    },
+    {
+        "question": "fuoverflow\nThere are 60 questions, and your progress of answering is Answer (Choose answer)\nEnsuring that test design starts during the requirements definition phase is important to enable which of the (following test objectives Preventing defects in the system . B. Finding defects through dynamic testing: Gaining confidence in the system\nFinishing the project on time .\nBack Net\nFUOs sh the exam FUOVERFLOWCOM\nQ 60",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "060_SWT301_-_SU_2024_-_FE_2327.webp"
+    }
+]

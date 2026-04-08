@@ -1,0 +1,479 @@
+[
+    {
+        "question": "Câu 1\nMultiple Choice\nA\nTesting should be stopped when:\nA\nAll the defined tests have been executed\nD\nE\nB (ii) Time has run out\nĐáp án: €\nC (iii) All faults have been fixed correctly\nD Both (i) and (iii)\nE It depends on the risks for the system being tested\nRETAKE IB CỪU DOLLY",
+        "options": {},
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_001.jpg"
+    },
+    {
+        "question": "Câu 2 Multiple Choice Which is not true-The black box tester A Should be able to understand a functional specification or requirements document D B Should be able to understand the source code",
+        "options": {
+            "C": "Is highly motivated to find faults D Is creative to find the system's weaknesses TOOL + SP IB LÒ VĂN LỤM"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_002.jpg"
+    },
+    {
+        "question": "Câu 3\nMultiple Choice\nDefects are recorded into three major purposes. They are: 1.To correct the defect 2 To report status of the application 3.To improve the software development process\nĐáp án: A\nA True\nB False\nRETAKE IB CỪU DOLLY",
+        "options": {},
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_003.jpg"
+    },
+    {
+        "question": "Câu 4 Multiple Choice Which one is not comes under international standard: (choose one answer) A IEC Đáp án: B B IEEE c ISO",
+        "options": {
+            "D": "All of the others RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_004.jpg"
+    },
+    {
+        "question": "Câu 5\nMultiple Choice\nWhich of the following is the standard for the Software product quality A ISO 9126\nĐáp án: A\nB ISO 829\nc ISO 1012\nD ISO 1028\nRETAKE IB CỪU DOLLY",
+        "options": {},
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_005.jpg"
+    },
+    {
+        "question": "Câu 6 Multiple Choice Important consequences of the impossibility of complete testing are: A We can never be cerain that the program is bug free. B We have no definite stopping point for testing. which makes it easier for some managers to argue for very little testing: Đáp án: D",
+        "options": {
+            "C": "We have no easy answer for what testing tasks should always be required, because every task takes time that could be spent on other high importance tasks .",
+            "D": "All of the others . RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_006.jpg"
+    },
+    {
+        "question": "Câu 7 Multiple Choice A field failure occurs when multiple users access a system. Which of the following is true? A This is an acceptable risk of a multi-user system. Đáp án: € B Insufficient functional testing has been performed",
+        "options": {
+            "C": "This indicates an important non-functional requirement was not specified and tested D It is not possible to test against such events prior to release. RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_007.jpg"
+    },
+    {
+        "question": "Câu 8 Multiple Choice PDCA is known as A Plan; Do. Check. Act Đáp án: A B Plan, Do. Correct , Act c Plan, Debug. Check. Act",
+        "options": {
+            "D": "Plan, Do. Check. Accept RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_008.jpg"
+    },
+    {
+        "question": "Câu 9 Multiple Choice Which of the following statements are true? A Faults in program specifications are the most expensive to fix Đáp án: € B Faults in code are the most expensive to fix. c Faults in requirements are the most expensive to fix",
+        "options": {
+            "D": "Faults in designs are the most expensive to fix RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_009.jpg"
+    },
+    {
+        "question": "Câu 10 Multiple Choice A The IEEE 829 test plan documentation standard contains all of the following. EXCEPT: A Test items D E B Test deliverables Đáp án: €",
+        "options": {
+            "C": "Test tasks D Test environment E Test specification RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_010.jpg"
+    },
+    {
+        "question": "Câu 11 Multiple Choice Regression testing should be perfomed: Every week ii.After the software has changed iii.As often as possible iv . When the environment has changed v. When the project manager says Đáp án: B A i & ii are true, iii, iv & v are false",
+        "options": {
+            "B": "ii.iii & iv are true, i & v are false",
+            "C": "ii & iv are true iiii & v are false D ii is true i. iii.iv & v are false RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_011.jpg"
+    },
+    {
+        "question": "Câu 12 Multiple Choice Which of the following is 0 MAJOR task cf test implementation and execution? A Measuring and analyzing results Đáp án: B B Reporting discrepancies as incidents",
+        "options": {
+            "C": "Identifying test conditions or test requirements D. Assessing if more tests are needed. RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_012.jpg"
+    },
+    {
+        "question": "Câu 13\nMultiple Choice\nIndependent Verification & Validation is\nA Done by the Developer\nĐáp án: D\nB Done by the Test Engineers\nC Done By Management\nD Done by an Entity Outside the Project's sphere of influence\nRETAKE IB CỪU DOLLY",
+        "options": {},
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_013.jpg"
+    },
+    {
+        "question": "Câu 14 Multiple Choice The specification which describes steps required to operate the system and exercise test cases in order to implement the associated test design A Test Case Specification Đáp án: € B Test Design Specification C Test Procedure Specification",
+        "options": {
+            "D": "None of the others RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_014.jpg"
+    },
+    {
+        "question": "Câu 15 Multiple Choice Which of the following is not the integration strategy? A Design based Đáp án: A B Big-bang",
+        "options": {
+            "C": "Bottom-up",
+            "D": "Top-down RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_015.jpg"
+    },
+    {
+        "question": "Câu 16 Multiple Choice Software testing accounts to what percent of software development costs? A 10-20 Đáp án: B B 40-50 C 70-80",
+        "options": {
+            "D": "5-10 RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_016.jpg"
+    },
+    {
+        "question": "Câu 17 Multiple Choice Reviews . static analysis and dynamic tes sting have the same objective A (i) Identifying defects_ Đáp án: A B (ii) Fixing defects",
+        "options": {
+            "C": "(i) and (ii) D None of (i) nor (ii) RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_017.jpg"
+    },
+    {
+        "question": "Câu 18 Multiple Choice Deciding How much testing is enough should take into account: - Level of Risk including Technical and Business product and project risk Project constraints such as time and budget I Size of Testing Team iv. Size of the Development Team Đáp án: A A iiiiii are true and iv is false B iiv are true and ii is false",
+        "options": {
+            "C": "iii are true and iii iv are false",
+            "D": "iiiii iv are true and i is false RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_018.jpg"
+    },
+    {
+        "question": "Câu 19 Multiple Choice In which order should tests be run? A The most important tests first Đáp án: A B The most difficult tests first(to allow maximum time for fixing) c The easiest tests first (to give initial confidence)",
+        "options": {
+            "D": "The order they are thought of RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_019.jpg"
+    },
+    {
+        "question": "Câu 20\nMultiple Choice\nWhich of the following defines the expected results of a test? A Test case 'specification.\nĐáp án: A\nB Test design specification.\nc Test procedure specification.\nD Test results\nRETAKE IB CỪU DOLLY",
+        "options": {},
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_020.jpg"
+    },
+    {
+        "question": "Câu 21 Multiple Choice Which of the following activities is included in the kick-off phase of 0 fomal review? A Explaining the objective Đáp án: A",
+        "options": {
+            "B": "Fixing defects found typically done by author",
+            "C": "Follow up D Individual Meeting preparations RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_021.jpg"
+    },
+    {
+        "question": "Câu 22 Multiple Choice Static analysis tools are typically used by A Testers Đáp án: B",
+        "options": {
+            "B": "Developers C Testers & Developers D None of the others RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_022.jpg"
+    },
+    {
+        "question": "Câu 23 Multiple Choice Which expression best matches the following characteristics or review processes: 1.Led by author 2 Undocumented 3 No management participation 4 Led by a trained moderator cr leader 5 Uses entry exit criteria s) Inspection t) Peer review u) Informal review vi Walkthrough E Đáp án: B A 5 =4 t = 3, u = 2and 5 v =1 B 5 = 4and 5 t = 3, U =2 v =1",
+        "options": {
+            "C": "s = Tand 5 t = 3 u =2 v = 4 D 5 = 5 t =4,u = 3 v = Tand 2 E s =4and 5 t = 1, u =2 v = 3 RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_023.jpg"
+    },
+    {
+        "question": "Câu 24 Multiple Choice Typical defects discovered by static analysis includes A Programming standard violations Đáp án: D B Refening 0 variable with an undefined value",
+        "options": {
+            "C": "Security vulnerabilities D All of the others RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_024.jpg"
+    },
+    {
+        "question": "Câu 25\nMultiple Choice\nWhich rule should not be followed for reviews\nA Defects and issues are identified and corrected\nD\nB The product is reviewed not the producer\nC All members of the reviewing team are responsible for the result of the review D Each review has & clear predefined objective\nTOOL + SP IB LÒ VĂN LỤM",
+        "options": {},
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_025.jpg"
+    },
+    {
+        "question": "Câu 26 Multiple Choice Which of the following is a Key Characteristics of  WalkThrough A Scenario Dry Run Peer Group Đáp án: A B Pre Meeting Preparations c Formal Follow Up Process",
+        "options": {
+            "D": "Includes Metrics RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_026.jpg"
+    },
+    {
+        "question": "Câu 27 Multiple Choice Which type of review is a fomal assessment of a work product conducted by one or more qualified independent reviewers to detect defects? A Inspection B Walkthrough Đáp án: A C Review",
+        "options": {
+            "D": "Non Conformance RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_027.jpg"
+    },
+    {
+        "question": "Câu 28 Multiple Choice Which of the following is true about Formal Review or Inspection: Led by Trained Moderator (not the author) - 8 No Pre Meeting Preparations Formal Follow vp process . Main Objective is to find defects A ii is true and i,iii,iv are false Đáp án: B B iiiiiv are true and ii is false C i,iii,iv are false and ii is true",
+        "options": {
+            "D": "iii is true and | ii iv are false RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_028.jpg"
+    },
+    {
+        "question": "Câu 29 Multiple Choice Who are the persons involved in a Fomal Review Manager 8 Moderator Scribe | Recorder Assistant Manager D A iiiiiiiv are true",
+        "options": {
+            "B": "iiiiii are true and iv is false",
+            "C": "ii iii iv are true and i is false D iwv are true and ii. iii are false TOOL + SP IB LÒ VĂN LỤM"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_029.jpg"
+    },
+    {
+        "question": "Câu 30 Multiple Choice Reviewing the test Basis is & part of which phase A Test Analysis and Design Đáp án: A B Test Implementation and execution C Test Closure Activities",
+        "options": {
+            "D": "Evaluating exit crteria and reporting RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_030.jpg"
+    },
+    {
+        "question": "Câu 31 Multiple Choice Features of White Box Testing Technique: We use explicit knowledge Of the internal workings of the item being tested to select the test data ii. Uses specific knowledge of programming code to examine outputs and assumes that the tester knows the path of logic in a unit or & program. Iii Checking for the perormance of the application iv . Also checks for functionality . Đáp án: A A i,ii are true and iii and iv are false B iii is true and i ii.iv are false",
+        "options": {
+            "C": "iiiii is true and i iv is false",
+            "D": "iii and iv are true and i,ii are false RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_031.jpg"
+    },
+    {
+        "question": "Câu 32 Multiple Choice A Which of the following defects are typically easier to find during reviews than during dynamic testing? A Deviations from standards D",
+        "options": {
+            "B": "Requirement defects . E Đáp án: €",
+            "C": "Design defects",
+            "D": "Insufficient maintainability and incorrect interface specifications . E All of the others . RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_032.jpg"
+    },
+    {
+        "question": "Câu 33 Multiple Choice (Choose 1 answer) Consider the following state transition diagram of a switch. Which of the following represents an invalid state transition? (Pic 4_276) A OFF to ON",
+        "options": {
+            "B": "ON to OFF",
+            "C": "FAULT to ON Off Faulr ON RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_033.jpg"
+    },
+    {
+        "question": "Câu 34\nMultiple Choice\nCoverage measurement\nA Is nothing to do with testing\nĐáp án: B\nB Is a partial measure of test thoroughness\nc Branch coverage should be mandatory for all software\nD Can only be applied at unit cr module testing . not at system testing\nRETAKE IB CỪU DOLLY",
+        "options": {},
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_034.jpg"
+    },
+    {
+        "question": "Câu 35\nMultiple Choice\nStochastic testing using statistical infomation or operational profiles uses the following method\nA Heuristic testing approach\nB Methodical testing approach\nĐáp án: €\nC Model based testing approach\nD Process or standard compliant testing approach\nRETAKE IB CỪU DOLLY",
+        "options": {},
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_035.jpg"
+    },
+    {
+        "question": "Câu 36 Multiple Choice Structure is unknown for which type of development project A Traditional system development Đáp án: D B Iterative development C System maintenance",
+        "options": {
+            "D": "Purchased contracted software RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_036.jpg"
+    },
+    {
+        "question": "Câu 37\nMultiple Choice\nWhere may functional testing be peromed? A At system and acceptance testing levels only .\nD\nB At all test levels\nc At all levels above integration testing \nD Atthe acceptance testing level only\nTOOL + SP IB LÒ VĂN LỤM",
+        "options": {},
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_037.jpg"
+    },
+    {
+        "question": "Câu 38 Multiple Choice Use cases can be peromed to test A Performance testing Đáp án: € B Unit testing c Business scenarios",
+        "options": {
+            "D": "Static testing RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_038.jpg"
+    },
+    {
+        "question": "Câu 39\nMultiple Choice\nError guessing is:\nA An appropriate way of deriving system tests .\nĐáp án: A\nB Only used if good requirements are not available.\nc Only used when good requirements are available\nD The most appropriate way of deriving system tests .\nRETAKE IB CỪU DOLLY",
+        "options": {},
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_039.jpg"
+    },
+    {
+        "question": "Câu 40 Multiple Choice Which of the following is 0 black box design technique? A Statement testing Đáp án: B B Equivalence partitioning c Error- guessing",
+        "options": {
+            "D": "Usability testing RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_040.jpg"
+    },
+    {
+        "question": "Câu 41\nMultiple Choice\nEquivalence testing divides the input domain into classes of data from which test cases can be derived to reduce the total number of test cases that must be developed.\nĐáp án: A\nA True\nB False\nRETAKE IB CỪU DOLLY",
+        "options": {},
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_041.jpg"
+    },
+    {
+        "question": "Câu 42 Multiple Choice Which of the following is not included in Test Plan A Features to be tested Đáp án: D B Environmental needs_",
+        "options": {
+            "C": "Suspension criteria",
+            "D": "Expected results RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_042.jpg"
+    },
+    {
+        "question": "Câu 43 Multiple Choice From & Testing perspective what are the MAIN purposes of Configuration Management? i) Identifying the version of software under test. Controlling the version of testware items. 11} Developing new testware items. Iv) Tracking changes totestware items . v) Analysing the need for new testware items. Đáp án: € A ii.iv and v. B ii,iii and iv",
+        "options": {
+            "C": "iiiand iv . D iiii and v . RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_043.jpg"
+    },
+    {
+        "question": "Câu 44 Multiple Choice Which of the following is the task of a Test Lead Leader. 1 Interaction with the Test Tool Vendor to identify best ways to leverage test tool on the project. Write Test Summary Reponts based on the information gathered during testing IlL . Decide what should be automated to what degree and how. iv . Create the Test Specifications Đáp án: A",
+        "options": {
+            "A": "iiiiii is true and iv is false B ii iii iv is true and i is false",
+            "C": "iis true and ii iii iv are false",
+            "D": "iii and iv is correct and i and ii are incorrect RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_044.jpg"
+    },
+    {
+        "question": "Câu 45 Multiple Choice Which of the following is not a characteristic for Testability? A Operability Đáp án: D B Observability",
+        "options": {
+            "C": "Simplicity",
+            "D": "Robustness RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_045.jpg"
+    },
+    {
+        "question": "Câu 46 Multiple Choice Which of the following tools would you use to detect 0 memory leak? A State analysis Đáp án: D B Coverage analysis",
+        "options": {
+            "C": "Dynamic analysis D Memory analysis RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_046.jpg"
+    },
+    {
+        "question": "Câu 47 Multiple Choice Which activity in the fundamental test process creates test suites for efficient test execution? A Implementation and execution.",
+        "options": {
+            "B": "Planning and control c. Analysis and design . Đáp án: A D Test closure RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_047.jpg"
+    },
+    {
+        "question": "Câu 48 Multiple Choice Test Case are grouped into Manageable (and scheduled) units are called as A Test Harness Đáp án: B B Test Suite",
+        "options": {
+            "C": "Test Cycle D Test Driver RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_048.jpg"
+    },
+    {
+        "question": "Câu 49\nMultiple Choice\nImpact Analysis helps to decide:\nA How much regression testing should be done.\nĐáp án: A\nB Exit Criteria\nc How many more test cases need to written\nD Different Tools to perorm Regression Testing\nRETAKE IB CỪU DOLLY",
+        "options": {},
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_049.jpg"
+    },
+    {
+        "question": "Câu 50 Multiple Choice Which of the following helps in monitoring the Test Progress: Percentage of Test Case Execution Percentage of work done in test environment preparation: IL Defect Information e.g. defect density, defects found and fixed iv. The size of the testing Team and skills of the engineers Đáp án: B A ivis correct and i,ii,iii are incorrect B iiiiii are conect and iv is incorrect",
+        "options": {
+            "C": "i,ii are correct and iii,iv are incorect",
+            "D": "iiv are correct and ii iii are incorrect RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_050.jpg"
+    },
+    {
+        "question": "Câu 51 Multiple Choice Which of the following is a MAJOR task of test planning? A Scheduling test analysis and design tasks . D B Initiating corrective actions_",
+        "options": {
+            "C": "Monitoring progress and test coverage D. Measuring and analyzing results TOOL + SP IB LÒ VĂN LỤM"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_051.jpg"
+    },
+    {
+        "question": "Câu 52 Multiple Choice Capture and replay facilities are least likely to be used to A Performance testing Đáp án: D B Recovery testing C GUI testing",
+        "options": {
+            "D": "User requirements RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_052.jpg"
+    },
+    {
+        "question": "Câu 53 Multiple Choice Defects discovered by static analysis tools include: i.Variables that are never used. IL . Security vulnerabilities IIL . Programming Standard Violations iv. Uncalled functions and procedures Đáp án: A A i . iiiii iv is correct B iii is correct | ii iv are incorrect.",
+        "options": {
+            "C": "i ii, iii and iv are incorrect",
+            "D": "iv. iiis correct RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_053.jpg"
+    },
+    {
+        "question": "Câu 54 Multiple Choice Which of the following tools would be involved in the automation of regression test? A Data tester Đáp án: € B Boundary tester",
+        "options": {
+            "C": "Capture Playback D Output comparator. RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_054.jpg"
+    },
+    {
+        "question": "Câu 55 Multiple Choice Which type of tool stores requirement statements . checks for consistency . allows requirements to be prioritized, and enables individual tests to be traceable to requirements , functions , and features? A Incident management tools B Requirements management tools Đáp án: B",
+        "options": {
+            "C": "Configuration management tools",
+            "D": "None of the others RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_055.jpg"
+    },
+    {
+        "question": "Câu 56 Multiple Choice Which of the following activities should be perormed during the selection and implementation of & testing tool? i) Investigate the organisation' s test process . Conduct a proof of concept. Implement the selected tool on project behind schedule to save time iv) Identify coaching and mentoning requirements for the use of the selected tcol: Đáp án: € A i,ii,iii B ii,iiiiv",
+        "options": {
+            "C": "iiii.iv .",
+            "D": "iiiiv . RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_056.jpg"
+    },
+    {
+        "question": "Câu 57 Multiple Choice A tool that supports traceability . recording of incidents or scheduling of tests is called: A A dynamic analysis tool D B A test execution tool Đáp án: D",
+        "options": {
+            "C": "A debugging tool",
+            "D": "A test management tool E A configuration management tool RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_057.jpg"
+    },
+    {
+        "question": "Câu 58 Multiple Choice What type of tcols to be used for Regression Testing ? A (1) Performance Đáp án: B B (2) Record Playback c Both of (1) and (2)",
+        "options": {
+            "D": "None of (1) nor (2) RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_058.jpg"
+    },
+    {
+        "question": "Câu 59 Multiple Choice A Unreachable code would best be found using: A Code reviews D E B Code inspections Đáp án: €",
+        "options": {
+            "C": "A coverage tool",
+            "D": "A test management tool E A static analysis tool RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_059.jpg"
+    },
+    {
+        "question": "Câu 60 Multiple Choice Which tool will be used to test the flag memory leaks and unassigned pointers A Dynamic analysis tool Đáp án: A B Static Analysis tool.",
+        "options": {
+            "C": "Maintenance tool.",
+            "D": "Configuration tool. RETAKE IB CỪU DOLLY"
+        },
+        "voted_answer": "N/A",
+        "image_file": "SWT301 SP26 FE_060.jpg"
+    }
+]

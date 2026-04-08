@@ -1,0 +1,409 @@
+[
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) What is failure? Deviation fron expected result to actual result",
+        "options": {
+            "B": "Defect in the software Error in the program code. Fault in the system Back Next Iwantto finish the exam. Finish"
+        },
+        "voted_answer": "A",
+        "image_file": "001_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Benefits of Independent Testing Independent testers are much more qualified than Developers\nIndependent testers see other and different defects and are unbiased .\nIndependent Testers cannot identify defects\nIndependent Testers can test better than developers\nBack Next\nIwantto finish the exam. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "002_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Error guessing is: An appropriate way of deriving system tests B. Only used if good requirements are not available . Only used when good requirements are available . The most appropriate way of deriving system tests .\nBack Next\nIwantto finish the exam. Finish\n3",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "003_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Impact Analysis helps to decide How much regression testing should be done\nExit Criteria\nHow many more test cases need to written Different Tools to perform Regression Testing\nBack Next\nIwantto finish the exam. Finish",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "004_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Capture and replay facilities are least likely to be used to Performance lesting\nRecovery testing\nGUI testing User requirements\nBack Next\nIwantto finish the exam. Finish\n5",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "005_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Given the following: Switch PC on Start \"outlook' IF outlook appears THEN Send an email Close outlook\ntest for statement coverage for branch coverage\n1 test for statement coverage, 2 for branch coverage\ntest for statement coverage. 3 for branch coverage\n2 tests for statement coverage, 2 for branch coverage\nBack 5\n2 tests for statement coverage, 3 for branch coverage\nIwantto finish the exam. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "006_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) [Which of the following is true about Formal Review or Inspection: Led by Trained Moderator {not the author) - No Pre Meeting Preparations Formal Follow up process Main Objective is to find defects ii is true and i,iiiiv are false",
+        "options": {
+            "B": "i,iii,iv are true and ii is false giiiiv are false and ii is true is true and | iiiv are false Back Nes Iwantto finish the exam. Finish"
+        },
+        "voted_answer": "B",
+        "image_file": "007_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Which of the following helps_in monitoring the Test Progress Percentage of Test Case Execution Percentage of work done in test environment preparation: Defect Information e g defect density , defects found and fixed The size of the testing Team and skills of the engineers iv is correct and i,ii,iii are incorrect",
+        "options": {
+            "B": "i,ii,iii are correct and iv is incorrect Zii are correct and iii,iv are incorrect D Liv are correct and ii iii are incorrect Back Nes Iwantto finish the exam. Finish 8"
+        },
+        "voted_answer": "B",
+        "image_file": "008_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Peer Reviews are also called as Inspection",
+        "options": {
+            "B": "Walkthrough Technical Review Formal Review Back Nes Iwantto finish the exam. Finish"
+        },
+        "voted_answer": "C",
+        "image_file": "009_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Which expression best matches the following characteristics or review processes Led by author Undocumented 3. No management participation Led by trained moderator or leader 5. Uses entry exit criteria Inspection t) Peer review Informal review v) Walkthrough\n5 = 4, t = 3 u = 2and 5 v = 1\nBack 5\n5 = 4 and 5, t = 3 u = 2 v =1\n5 = and 5,t = 3 u = 2 v = 4\n5 = 5,t =4, U = 3 v =1 and 2\n5 = 4 and 5,t = I,u = 2 V = 3\nIwantto finish the exam. Finish\n(10",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "010_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) The selection of a test approach should consider the context: Risk of Failure of the Project; hazards to the product and risks of product failure to humans Skills and experience of the people in the proposed technique; tools and methods The objective of the testing endeavor and the mission of the testing team . The size of the testing Team iiiiiiiv are true",
+        "options": {
+            "B": "i,ii,iii are true and iv is false iiiii,iv are true and i is false Liv are true and ii iii are false. Back Nes Iwantto finish the exam. Finish"
+        },
+        "voted_answer": "B",
+        "image_file": "011_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) [Which of the following is least important in test management? Estimating test duration:\nIncident Management\nConfiguration Management. De-bugging:\nBack Nes\nIwantto finish the exam. Finish\n(12",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "012_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) During the software development process , at what point can the test process start?\nWhen the code is complete\nWhen the design is complete.\nWhen the software requirements have been approved When the first code module is ready for unit testing\nBack Nes\nIwantto finish the exam. Finish\n(13",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "013_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) When do you stop testing' When the specified number of faults are found\nWhen the test completion criteria are met. When all high and medium priority tests are complete. When all statements have been executed\nBack Nes\nIwantto finish the exam. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "014_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) There are several risks of managing your project's schedule with statistical reliability model. These include: (choose one answer):\nTesters spend more energy early in the product trying to find bugs than preparing to do the rest of the project's work more efficiently\nManagers might not realize that the testing effort is ineffective late in the project; because they expect a OW rate of bug finding; so the low rate achieved doesn't alarm them_\nIt can increase the end-of-project pressure on testers to not find bugs or to not report bugs\nAll of the others\nBack Nes\nIwantto finish the exam. Finish\n(15",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "015_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Which of the following is the odd one out? White box testing\nGlass box testing\nClear box testing\nBlack box testing\nTransparent box testing\nStructural testing\nBack Next\nIwantto finish the exam. Finish\n(16",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "016_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Deciding How much testing is enough should take into account: - Level Risk including Technical and Business product and project risk Project constraints such as time and budget Size of Testing Team iv. Size of the Development Team iiiiii are true and iv is false",
+        "options": {
+            "B": "i,,wv are true and ii is false Zii are true and iii,iv are false ii,iiiiv are true and 15 false Back Next Iwantto finish the exam. Finish"
+        },
+        "voted_answer": "A",
+        "image_file": "017_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) When a new testing tool is purchased, it should be used first by: A small team to establish the best way to use the tool",
+        "options": {
+            "B": "Everyone who may eventually have some use for the tool The independent testing team The managers to see what projects it should be used in The vendor contractor to write the initial scripts Back Next Iwantto finish the exam. Finish (18"
+        },
+        "voted_answer": "A",
+        "image_file": "018_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) When a new testing tool is purchased, it should be used first by: A small team to establish the best way to use the tool",
+        "options": {
+            "B": "Everyone who may eventually have some use for the tool The independent testing team The vendor contractor to write the initial scripts Back Next Iwantto finish the exam. Finish (19"
+        },
+        "voted_answer": "A",
+        "image_file": "019_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) JA wholesaler sells printer cartridges The minimum order quantity is 5 There is a 209 discount for orders of 100 or more printer cartridges You have been asked to prepare test cases using various values for the Inumber of printer cartridges ordered. Which of the following groups contain three test inputs that would be Igenerated using Boundary Value Analysis? 5, 6, 20",
+        "options": {
+            "B": "4, 5, 80 4, 5, 99 D 1,20, 100 Back Next Iwantto finish the exam. Finish 20"
+        },
+        "voted_answer": "C",
+        "image_file": "020_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) [Who would USUALLY perform debugging activities? Developers",
+        "options": {
+            "B": "Analysts Testers Incident Managers Back Next Iwantto finish the exam. Finish"
+        },
+        "voted_answer": "A",
+        "image_file": "021_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) A reliable system will be one that: Is unlikely to be completed on schedule",
+        "options": {
+            "B": "Is unlikely to cause a failure likely to be fault-free likely to be liked by the users Back Next Iwantto finish the exam. Finish (22"
+        },
+        "voted_answer": "B",
+        "image_file": "022_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Measurement dysfunction is a problem because:\nEven though the numbers you look at appear better achieve these numbers , people are doing other aspects of their work much less well.\nWe don't know how to measure a variable (our measurement is dysfunctional) and so we don't know how to Interpret the result.\nYou are measuring the wrong thing and thus reaching the wrong conclusions\nAll of the others\nBack Next\nIwantto finish the exam. Finish\n(23",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "023_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Which of the following is a static test? Code inspection\nCoverage analysis\nUsability assessment\nInstallation test\nBack Next\nIwantto finish the exam. Finish\n24",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "024_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) A tool that supports traceability , recording of incidents or scheduling of tests is called:\nA dynamic analysis tool\nA test execution tool\ndebugging tool A test management tool configuration management tool\nBack Next\nIwantto finish the exam. Finish\n(25",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "025_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) The Planning phase of a formal review includes  which of the followings? Explaining the objectives",
+        "options": {
+            "B": "Selecting the personnel, allocating roles Follow up Individual Meeting preparations Back Next Iwantto finish the exam. Finish 26"
+        },
+        "voted_answer": "B",
+        "image_file": "026_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Defects are recorded into three major purposes They are: 1.To correct the defect To report status of the application 3.To improve the software development process True",
+        "options": {
+            "B": "False Back Next Iwantto finish the exam. Finish 27"
+        },
+        "voted_answer": "A",
+        "image_file": "027_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Static analysis tools are typically used by\nTesters\nDevelopers\nTesters & Developers\nNone of the others\nBack Next\nIwantto finish the exam. Finish\n(28",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "028_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) A standard for software testing terminology is IEEE 802.11",
+        "options": {
+            "B": "ISO 9001 BS 7925-1 BS 7925-2 Back Next Iwantto finish the exam. Finish 29"
+        },
+        "voted_answer": "C",
+        "image_file": "029_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Exhaustive Testing is Is impractical but possible\nIs practically possible\nIs impractical and impossible\nIs always possible\nBack Next\nIwantto finish the exam. Finish\n30",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "030_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) The Provision and Management of a controlled library containing all the configurations items is called as\nConfiguration Control\nStatus Accounting\nConfiguration Identification\nBack Next\nIwantto finish the exam. Finish\n31",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "031_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) [Which of the following is MOST characteristic of specification based (black-box) techniques Test cases can be easily automated\nTest cases are independent of each other.\nTest cases are derived systematically from models of the system\nTest cases are derived systematically from the delivered code\nBack Next\nIwantto finish the exam. Finish\n32",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "032_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) [typical commercial test execution tool would be able to perform all of the following EXCEPT: Generating expected outputs",
+        "options": {
+            "B": "Replaying inputs according to a programmed script Comparison of expected outcomes with actual outcomes Recording test inputs Reading test values from data file Back Next Iwantto finish the exam. Finish 33"
+        },
+        "voted_answer": "A",
+        "image_file": "033_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Match every stage of the software Development Life cycle with the Testing Life cycle: Hi-level design Code Low-level design Business requirements Unit tests b. Acceptance tests System tests d.Integration tests",
+        "options": {
+            "A": "i-d ii-a iii-c Iv-b",
+            "B": "i-c I-d iii-a Iv-b Back Next i-b ii-a , iii-d iv-c j-c , ii-a iii-d iv-b Iwantto finish the exam. Finish 34"
+        },
+        "voted_answer": "D",
+        "image_file": "034_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) One Key reason why developers have difficulty testing their own work is Lack of technical documentation",
+        "options": {
+            "B": "Lack of test tools on the market for developers Lack of training Lack of Objectivity Back Next Iwantto finish the exam. Finish 35"
+        },
+        "voted_answer": "D",
+        "image_file": "035_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Which of the following is a type of non-functional testing? Usability testing -\nStatement Coverage\nDataflow testing -\nCause-effect graphing\nBack Next\nIwantto finish the exam. Finish\n36",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "036_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) [Majority of system errors occur in the_ phase Requirements Phase",
+        "options": {
+            "B": "Analysis and Design Phase Development Phase Testing Phase Back Next Iwantto finish the exam. Finish 37"
+        },
+        "voted_answer": "A",
+        "image_file": "037_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Testing does not help to Find faults\nAssure quality\nCheck user friendliness\nImprove software accuracy\nBack Next\nIwantto finish the exam. Finish\n38",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "038_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) [The Kick Off phase of a formal review includes the following: Explaining the objective Fixing defects found typically done by author\nFollow up Individual Meeting preparations\nBack Next\nIwantto finish the exam. Finish\n39",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "039_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) A Type of functional Testing; which investigates the functions relating to detection of threats such as vIrus from malicious outsiders\nSecurity Testing\nRecovery Testing Performance Testing Functionality Testing\nBack Next\nIwantto finish the exam. Finish\n40",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "040_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Tool which stores requirement statements check for consistency and allow requirements to be prioritized and enable individual tests to be traceable to requirements functions and features\nIncident management tools\nRequirements management tools\nConfiguration management tools None of the others\nBack Next\nIwantto finish the exam. Finish",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "041_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) [What type of tools to be used for Regression Testing (choose one answer)\n(1) Performance\nRecord Playback\nBoth of (1) and (2)\nNone of (1) nor (2)\nBack Next\nIwantto finish the exam. Finish\n42",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "042_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Which is the best definition of complete testing: You have discovered every bug in the program.\nYou have tested every statement; branch; and combination of branches in the program .\nYou have completed every test in the test plan\nYou have reached the scheduled ship date\nBack Next\nIwantto finish the exam. Finish\n43",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "043_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Success Factors for a review include: Each Review does not have a predefined objective Defects found are welcomed and expressed objectively Management supports good revlew process There is an emphasis on learning and process improvement ii,iii,iv are correct and IS Incorrect",
+        "options": {
+            "B": "iii , i , iv is correct and ii is incorrect i, iii , iv , ii is in correct is correct Back Next Iwantto finish the exam. Finish"
+        },
+        "voted_answer": "A",
+        "image_file": "044_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Some tools are geared more for developer use. For the 5 tools listed; which statement BEST details those for developers Performance testing tools Coverage measurement tools Test comparators Dynamic analysis tools Incident management tools\ni, iii. and iv . are more for developers\niiand iv are more for developers\nii, iii. and iv. are more for developers\nBack Next\nand iii. are more for developers\nIwantto finish the exam. Finish\n45",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "045_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Which of the following is true? Component testing should be black box, system testing should be white box\nIf you find a lot of bugs in testing; you should not be very confident about the quality of software\nThe fewer bugs you find, the better your testing was\nThe more tests you run; the more bugs you will find.\nBack Next\nIwantto finish the exam. Finish\n46",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "046_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) One of the fields on a form contains text box , which accepts alphabets in lower or upper case. Identify the invalid Equivalence class value CLASS",
+        "options": {
+            "B": "cLASS CLass CLaO1ss Back Next Iwantto finish the exam. Finish"
+        },
+        "voted_answer": "D",
+        "image_file": "047_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) White Box Techniques are also called as: Structural Testing",
+        "options": {
+            "B": "Design Based Testing Error Guessing Technique Experience Based Technique Back Next Iwantto finish the exam. Finish 48"
+        },
+        "voted_answer": "A",
+        "image_file": "048_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) The vendor contractor to write the initial scripts Measuring response time\nMeasuring transaction rates\nRecovery testing Simulating many users\nGenerating many transactions\nBack Next\nIwantto finish the exam. Finish\n49",
+        "options": {},
+        "voted_answer": "D",
+        "image_file": "049_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) A person who documents all the issues, problems and open points that were identified during formal review\nModerator\nScribe\nAuthor\nManager\nBack Next\nIwantto finish the exam. Finish\n(50",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "050_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Which activity in the fundamental test process creates test suites for efficient test execution?\nImplementation and execution.\nPlanning and control.\nAnalysis and design.\nTest closure .\nBack Next\nIwantto finish the exam. Finish\n(51",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "051_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) What information need not be included in test incident report:\nHow to fix the fault\nHow to reproduce the fault\nTest environment details\nSeverity , priority The actual and expected outcomes\nBack Next\nIwantto finish the exam. Finish\n(52",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "052_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Which of the following statements are true? Faults in program specifications are the most expensive to fix B. Faults in code are the most expensive to fix.\nFaults in requirements are the most expensive to fix Faults in designs are the most expensive to fix.\nBack Next\nIwantto finish the exam. Finish\n(53",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "053_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Which of the following is not a static testing technique?\nError guessing\nWalkthrough\nData flow analysis\nInspections\nBack Next\nIwantto finish the exam. Finish\n54",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "054_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) [Which tool will be used to test the flag memory leaks and unassigned pointers Dynamic analysis tool",
+        "options": {
+            "B": "Static Analysis tool:. Maintenance tool. Configuration tool:. Back Next Iwantto finish the exam. Finish (55"
+        },
+        "voted_answer": "A",
+        "image_file": "055_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) System testing should investigate\nNon-functional requirements only not Functional requirements\nFunctional requirements only not non-functional requirements\nNon-functional requirements and Functional requirements\nNon-functional requirements or Functional requirements\nBack Next\nIwantto finish the exam. Finish\n(56",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "056_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) [Link Testing is also called as Component Integration testing Component System Testing\nComponent Sub System Testing\nMaintenance testing\nBack Next\nIwantto finish the exam. Finish\n57",
+        "options": {},
+        "voted_answer": "A",
+        "image_file": "057_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) People who don t participate in technical reviews\nAnalysts\nManagement\nDevelopers\nTesters\nBack Next\nIwantto finish the exam. Finish\n(58",
+        "options": {},
+        "voted_answer": "B",
+        "image_file": "058_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) Software quality is not relevant to\nCorrectness\nUsability Viability\nReusability\nBack Next\nIwantto finish the exam. Finish\n59",
+        "options": {},
+        "voted_answer": "C",
+        "image_file": "059_SWT301_-_FE_-_SUM23_363.webp"
+    },
+    {
+        "question": "fuoverflow are 60 questions and your progress of answering is Answer (Choose answer) In a system designed to work out the tax to be paid: An employee has $4000 of salary tax free The next $1500 taxed at 10% The next $28000 is taxed at 22% Any further amount is taxed at 409 Which of these groups of numbers would fall into the same equivalence class? s5800; 528000; 532000",
+        "options": {
+            "B": "SO; S200; $4200 55200, S550O, s28000 S28001; 532000; 535000 Back Next Iwantto finish the exam. Finish (60"
+        },
+        "voted_answer": "A",
+        "image_file": "060_SWT301_-_FE_-_SUM23_363.webp"
+    }
+]
